@@ -1,0 +1,1537 @@
+Order ID,Date,Region,Product,Units Sold,Price per Unit,Revenue,Category
+1,2026-08-07,North,Michelob Ultra,238,14.0,3332.0,Core Beer
+2,2026-08-07,North,Bud Light,229,12.5,2862.5,Core Beer
+3,2026-08-07,North,Corona Extra,171,14.0,2394.0,Premium
+4,2026-08-07,North,Budweiser,156,12.0,1872.0,Core Beer
+5,2026-08-07,North,Busch Light,152,12.0,1824.0,Value
+6,2026-08-07,North,Stella Artois,152,16.0,2432.0,Premium
+7,2026-08-07,North,Natural Light,142,11.0,1562.0,Value
+8,2026-08-07,North,Busch,137,11.5,1575.5,Value
+9,2026-08-07,North,Nutrl,124,18.0,2232.0,Seltzer
+10,2026-08-07,North,Kona Big Wave,121,15.5,1875.5,Craft
+11,2026-08-07,North,Bud Light Seltzer,70,17.0,1190.0,Seltzer
+12,2026-08-07,North,Mango Cart,64,13.0,832.0,Craft
+13,2026-08-07,South,Michelob Ultra,207,14.0,2898.0,Core Beer
+14,2026-08-07,South,Bud Light,201,12.5,2512.5,Core Beer
+15,2026-08-07,South,Corona Extra,199,14.0,2786.0,Premium
+16,2026-08-07,South,Budweiser,180,12.0,2160.0,Core Beer
+17,2026-08-07,South,Busch Light,179,12.0,2148.0,Value
+18,2026-08-07,South,Stella Artois,166,16.0,2656.0,Premium
+19,2026-08-07,South,Natural Light,153,11.0,1683.0,Value
+20,2026-08-07,South,Busch,149,11.5,1713.5,Value
+21,2026-08-07,South,Nutrl,137,18.0,2466.0,Seltzer
+22,2026-08-07,South,Kona Big Wave,102,15.5,1581.0,Craft
+23,2026-08-07,South,Bud Light Seltzer,87,17.0,1479.0,Seltzer
+24,2026-08-07,South,Mango Cart,51,13.0,663.0,Craft
+25,2026-08-07,East,Michelob Ultra,241,14.0,3374.0,Core Beer
+26,2026-08-07,East,Bud Light,237,12.5,2962.5,Core Beer
+27,2026-08-07,East,Corona Extra,237,14.0,3318.0,Premium
+28,2026-08-07,East,Budweiser,219,12.0,2628.0,Core Beer
+29,2026-08-07,East,Busch Light,210,12.0,2520.0,Value
+30,2026-08-07,East,Stella Artois,138,16.0,2208.0,Premium
+31,2026-08-07,East,Natural Light,108,11.0,1188.0,Value
+32,2026-08-07,East,Busch,107,11.5,1230.5,Value
+33,2026-08-07,East,Nutrl,98,18.0,1764.0,Seltzer
+34,2026-08-07,East,Kona Big Wave,71,15.5,1100.5,Craft
+35,2026-08-07,East,Bud Light Seltzer,70,17.0,1190.0,Seltzer
+36,2026-08-07,East,Mango Cart,64,13.0,832.0,Craft
+37,2026-08-07,West,Michelob Ultra,239,14.0,3346.0,Core Beer
+38,2026-08-07,West,Bud Light,239,12.5,2987.5,Core Beer
+39,2026-08-07,West,Corona Extra,239,14.0,3346.0,Premium
+40,2026-08-07,West,Budweiser,224,12.0,2688.0,Core Beer
+41,2026-08-07,West,Busch Light,184,12.0,2208.0,Value
+42,2026-08-07,West,Stella Artois,180,16.0,2880.0,Premium
+43,2026-08-07,West,Natural Light,157,11.0,1727.0,Value
+44,2026-08-07,West,Busch,113,11.5,1299.5,Value
+45,2026-08-07,West,Nutrl,104,18.0,1872.0,Seltzer
+46,2026-08-07,West,Kona Big Wave,100,15.5,1550.0,Craft
+47,2026-08-07,West,Bud Light Seltzer,100,17.0,1700.0,Seltzer
+48,2026-08-07,West,Mango Cart,70,13.0,910.0,Craft
+49,2026-08-08,North,Michelob Ultra,216,14.0,3024.0,Core Beer
+50,2026-08-08,North,Bud Light,181,12.5,2262.5,Core Beer
+51,2026-08-08,North,Corona Extra,179,14.0,2506.0,Premium
+52,2026-08-08,North,Budweiser,139,12.0,1668.0,Core Beer
+53,2026-08-08,North,Busch Light,138,12.0,1656.0,Value
+54,2026-08-08,North,Stella Artois,133,16.0,2128.0,Premium
+55,2026-08-08,North,Natural Light,122,11.0,1342.0,Value
+56,2026-08-08,North,Busch,109,11.5,1253.5,Value
+57,2026-08-08,North,Nutrl,102,18.0,1836.0,Seltzer
+58,2026-08-08,North,Kona Big Wave,67,15.5,1038.5,Craft
+59,2026-08-08,North,Bud Light Seltzer,63,17.0,1071.0,Seltzer
+60,2026-08-08,North,Mango Cart,58,13.0,754.0,Craft
+61,2026-08-08,South,Michelob Ultra,248,14.0,3472.0,Core Beer
+62,2026-08-08,South,Bud Light,237,12.5,2962.5,Core Beer
+63,2026-08-08,South,Corona Extra,224,14.0,3136.0,Premium
+64,2026-08-08,South,Budweiser,221,12.0,2652.0,Core Beer
+65,2026-08-08,South,Busch Light,213,12.0,2556.0,Value
+66,2026-08-08,South,Stella Artois,160,16.0,2560.0,Premium
+67,2026-08-08,South,Natural Light,153,11.0,1683.0,Value
+68,2026-08-08,South,Busch,141,11.5,1621.5,Value
+69,2026-08-08,South,Nutrl,130,18.0,2340.0,Seltzer
+70,2026-08-08,South,Kona Big Wave,99,15.5,1534.5,Craft
+71,2026-08-08,South,Bud Light Seltzer,84,17.0,1428.0,Seltzer
+72,2026-08-08,South,Mango Cart,57,13.0,741.0,Craft
+73,2026-08-08,East,Michelob Ultra,240,14.0,3360.0,Core Beer
+74,2026-08-08,East,Bud Light,239,12.5,2987.5,Core Beer
+75,2026-08-08,East,Corona Extra,211,14.0,2954.0,Premium
+76,2026-08-08,East,Budweiser,195,12.0,2340.0,Core Beer
+77,2026-08-08,East,Busch Light,183,12.0,2196.0,Value
+78,2026-08-08,East,Stella Artois,181,16.0,2896.0,Premium
+79,2026-08-08,East,Natural Light,155,11.0,1705.0,Value
+80,2026-08-08,East,Busch,103,11.5,1184.5,Value
+81,2026-08-08,East,Nutrl,103,18.0,1854.0,Seltzer
+82,2026-08-08,East,Kona Big Wave,93,15.5,1441.5,Craft
+83,2026-08-08,East,Bud Light Seltzer,53,17.0,901.0,Seltzer
+84,2026-08-08,East,Mango Cart,51,13.0,663.0,Craft
+85,2026-08-08,West,Michelob Ultra,249,14.0,3486.0,Core Beer
+86,2026-08-08,West,Bud Light,239,12.5,2987.5,Core Beer
+87,2026-08-08,West,Corona Extra,203,14.0,2842.0,Premium
+88,2026-08-08,West,Budweiser,160,12.0,1920.0,Core Beer
+89,2026-08-08,West,Busch Light,144,12.0,1728.0,Value
+90,2026-08-08,West,Stella Artois,131,16.0,2096.0,Premium
+91,2026-08-08,West,Natural Light,102,11.0,1122.0,Value
+92,2026-08-08,West,Busch,97,11.5,1115.5,Value
+93,2026-08-08,West,Nutrl,89,18.0,1602.0,Seltzer
+94,2026-08-08,West,Kona Big Wave,73,15.5,1131.5,Craft
+95,2026-08-08,West,Bud Light Seltzer,64,17.0,1088.0,Seltzer
+96,2026-08-08,West,Mango Cart,63,13.0,819.0,Craft
+97,2026-08-09,North,Michelob Ultra,237,14.0,3318.0,Core Beer
+98,2026-08-09,North,Bud Light,206,12.5,2575.0,Core Beer
+99,2026-08-09,North,Corona Extra,178,14.0,2492.0,Premium
+100,2026-08-09,North,Budweiser,173,12.0,2076.0,Core Beer
+101,2026-08-09,North,Busch Light,138,12.0,1656.0,Value
+102,2026-08-09,North,Stella Artois,137,16.0,2192.0,Premium
+103,2026-08-09,North,Natural Light,120,11.0,1320.0,Value
+104,2026-08-09,North,Busch,114,11.5,1311.0,Value
+105,2026-08-09,North,Nutrl,94,18.0,1692.0,Seltzer
+106,2026-08-09,North,Kona Big Wave,90,15.5,1395.0,Craft
+107,2026-08-09,North,Bud Light Seltzer,64,17.0,1088.0,Seltzer
+108,2026-08-09,North,Mango Cart,58,13.0,754.0,Craft
+109,2026-08-09,South,Michelob Ultra,212,14.0,2968.0,Core Beer
+110,2026-08-09,South,Bud Light,212,12.5,2650.0,Core Beer
+111,2026-08-09,South,Corona Extra,188,14.0,2632.0,Premium
+112,2026-08-09,South,Budweiser,185,12.0,2220.0,Core Beer
+113,2026-08-09,South,Busch Light,185,12.0,2220.0,Value
+114,2026-08-09,South,Stella Artois,172,16.0,2752.0,Premium
+115,2026-08-09,South,Natural Light,130,11.0,1430.0,Value
+116,2026-08-09,South,Busch,112,11.5,1288.0,Value
+117,2026-08-09,South,Nutrl,90,18.0,1620.0,Seltzer
+118,2026-08-09,South,Kona Big Wave,82,15.5,1271.0,Craft
+119,2026-08-09,South,Bud Light Seltzer,77,17.0,1309.0,Seltzer
+120,2026-08-09,South,Mango Cart,54,13.0,702.0,Craft
+121,2026-08-09,East,Michelob Ultra,250,14.0,3500.0,Core Beer
+122,2026-08-09,East,Bud Light,221,12.5,2762.5,Core Beer
+123,2026-08-09,East,Corona Extra,211,14.0,2954.0,Premium
+124,2026-08-09,East,Budweiser,200,12.0,2400.0,Core Beer
+125,2026-08-09,East,Busch Light,184,12.0,2208.0,Value
+126,2026-08-09,East,Stella Artois,148,16.0,2368.0,Premium
+127,2026-08-09,East,Natural Light,121,11.0,1331.0,Value
+128,2026-08-09,East,Busch,111,11.5,1276.5,Value
+129,2026-08-09,East,Nutrl,97,18.0,1746.0,Seltzer
+130,2026-08-09,East,Kona Big Wave,86,15.5,1333.0,Craft
+131,2026-08-09,East,Bud Light Seltzer,82,17.0,1394.0,Seltzer
+132,2026-08-09,East,Mango Cart,61,13.0,793.0,Craft
+133,2026-08-09,West,Michelob Ultra,242,14.0,3388.0,Core Beer
+134,2026-08-09,West,Bud Light,224,12.5,2800.0,Core Beer
+135,2026-08-09,West,Corona Extra,191,14.0,2674.0,Premium
+136,2026-08-09,West,Budweiser,186,12.0,2232.0,Core Beer
+137,2026-08-09,West,Busch Light,180,12.0,2160.0,Value
+138,2026-08-09,West,Stella Artois,153,16.0,2448.0,Premium
+139,2026-08-09,West,Natural Light,152,11.0,1672.0,Value
+140,2026-08-09,West,Busch,150,11.5,1725.0,Value
+141,2026-08-09,West,Nutrl,84,18.0,1512.0,Seltzer
+142,2026-08-09,West,Kona Big Wave,76,15.5,1178.0,Craft
+143,2026-08-09,West,Bud Light Seltzer,54,17.0,918.0,Seltzer
+144,2026-08-09,West,Mango Cart,50,13.0,650.0,Craft
+145,2026-08-10,North,Michelob Ultra,228,14.0,3192.0,Core Beer
+146,2026-08-10,North,Bud Light,200,12.5,2500.0,Core Beer
+147,2026-08-10,North,Corona Extra,192,14.0,2688.0,Premium
+148,2026-08-10,North,Budweiser,181,12.0,2172.0,Core Beer
+149,2026-08-10,North,Busch Light,173,12.0,2076.0,Value
+150,2026-08-10,North,Stella Artois,145,16.0,2320.0,Premium
+151,2026-08-10,North,Natural Light,145,11.0,1595.0,Value
+152,2026-08-10,North,Busch,139,11.5,1598.5,Value
+153,2026-08-10,North,Nutrl,112,18.0,2016.0,Seltzer
+154,2026-08-10,North,Kona Big Wave,101,15.5,1565.5,Craft
+155,2026-08-10,North,Bud Light Seltzer,91,17.0,1547.0,Seltzer
+156,2026-08-10,North,Mango Cart,64,13.0,832.0,Craft
+157,2026-08-10,South,Michelob Ultra,236,14.0,3304.0,Core Beer
+158,2026-08-10,South,Bud Light,220,12.5,2750.0,Core Beer
+159,2026-08-10,South,Corona Extra,219,14.0,3066.0,Premium
+160,2026-08-10,South,Budweiser,209,12.0,2508.0,Core Beer
+161,2026-08-10,South,Busch Light,135,12.0,1620.0,Value
+162,2026-08-10,South,Stella Artois,120,16.0,1920.0,Premium
+163,2026-08-10,South,Natural Light,115,11.0,1265.0,Value
+164,2026-08-10,South,Busch,94,11.5,1081.0,Value
+165,2026-08-10,South,Nutrl,85,18.0,1530.0,Seltzer
+166,2026-08-10,South,Kona Big Wave,78,15.5,1209.0,Craft
+167,2026-08-10,South,Bud Light Seltzer,77,17.0,1309.0,Seltzer
+168,2026-08-10,South,Mango Cart,62,13.0,806.0,Craft
+169,2026-08-10,East,Michelob Ultra,239,14.0,3346.0,Core Beer
+170,2026-08-10,East,Bud Light,234,12.5,2925.0,Core Beer
+171,2026-08-10,East,Corona Extra,183,14.0,2562.0,Premium
+172,2026-08-10,East,Budweiser,177,12.0,2124.0,Core Beer
+173,2026-08-10,East,Busch Light,157,12.0,1884.0,Value
+174,2026-08-10,East,Stella Artois,133,16.0,2128.0,Premium
+175,2026-08-10,East,Natural Light,124,11.0,1364.0,Value
+176,2026-08-10,East,Busch,111,11.5,1276.5,Value
+177,2026-08-10,East,Nutrl,93,18.0,1674.0,Seltzer
+178,2026-08-10,East,Kona Big Wave,79,15.5,1224.5,Craft
+179,2026-08-10,East,Bud Light Seltzer,77,17.0,1309.0,Seltzer
+180,2026-08-10,East,Mango Cart,77,13.0,1001.0,Craft
+181,2026-08-10,West,Michelob Ultra,249,14.0,3486.0,Core Beer
+182,2026-08-10,West,Bud Light,247,12.5,3087.5,Core Beer
+183,2026-08-10,West,Corona Extra,239,14.0,3346.0,Premium
+184,2026-08-10,West,Budweiser,239,12.0,2868.0,Core Beer
+185,2026-08-10,West,Busch Light,178,12.0,2136.0,Value
+186,2026-08-10,West,Stella Artois,170,16.0,2720.0,Premium
+187,2026-08-10,West,Natural Light,170,11.0,1870.0,Value
+188,2026-08-10,West,Busch,165,11.5,1897.5,Value
+189,2026-08-10,West,Nutrl,152,18.0,2736.0,Seltzer
+190,2026-08-10,West,Kona Big Wave,141,15.5,2185.5,Craft
+191,2026-08-10,West,Bud Light Seltzer,76,17.0,1292.0,Seltzer
+192,2026-08-10,West,Mango Cart,52,13.0,676.0,Craft
+193,2026-08-11,North,Michelob Ultra,229,14.0,3206.0,Core Beer
+194,2026-08-11,North,Bud Light,221,12.5,2762.5,Core Beer
+195,2026-08-11,North,Corona Extra,214,14.0,2996.0,Premium
+196,2026-08-11,North,Budweiser,209,12.0,2508.0,Core Beer
+197,2026-08-11,North,Busch Light,204,12.0,2448.0,Value
+198,2026-08-11,North,Stella Artois,201,16.0,3216.0,Premium
+199,2026-08-11,North,Natural Light,186,11.0,2046.0,Value
+200,2026-08-11,North,Busch,167,11.5,1920.5,Value
+201,2026-08-11,North,Nutrl,145,18.0,2610.0,Seltzer
+202,2026-08-11,North,Kona Big Wave,111,15.5,1720.5,Craft
+203,2026-08-11,North,Bud Light Seltzer,108,17.0,1836.0,Seltzer
+204,2026-08-11,North,Mango Cart,100,13.0,1300.0,Craft
+205,2026-08-11,South,Michelob Ultra,235,14.0,3290.0,Core Beer
+206,2026-08-11,South,Bud Light,233,12.5,2912.5,Core Beer
+207,2026-08-11,South,Corona Extra,180,14.0,2520.0,Premium
+208,2026-08-11,South,Budweiser,179,12.0,2148.0,Core Beer
+209,2026-08-11,South,Busch Light,162,12.0,1944.0,Value
+210,2026-08-11,South,Stella Artois,162,16.0,2592.0,Premium
+211,2026-08-11,South,Natural Light,162,11.0,1782.0,Value
+212,2026-08-11,South,Busch,150,11.5,1725.0,Value
+213,2026-08-11,South,Nutrl,111,18.0,1998.0,Seltzer
+214,2026-08-11,South,Kona Big Wave,101,15.5,1565.5,Craft
+215,2026-08-11,South,Bud Light Seltzer,88,17.0,1496.0,Seltzer
+216,2026-08-11,South,Mango Cart,61,13.0,793.0,Craft
+217,2026-08-11,East,Michelob Ultra,236,14.0,3304.0,Core Beer
+218,2026-08-11,East,Bud Light,196,12.5,2450.0,Core Beer
+219,2026-08-11,East,Corona Extra,179,14.0,2506.0,Premium
+220,2026-08-11,East,Budweiser,179,12.0,2148.0,Core Beer
+221,2026-08-11,East,Busch Light,178,12.0,2136.0,Value
+222,2026-08-11,East,Stella Artois,175,16.0,2800.0,Premium
+223,2026-08-11,East,Natural Light,162,11.0,1782.0,Value
+224,2026-08-11,East,Busch,136,11.5,1564.0,Value
+225,2026-08-11,East,Nutrl,130,18.0,2340.0,Seltzer
+226,2026-08-11,East,Kona Big Wave,103,15.5,1596.5,Craft
+227,2026-08-11,East,Bud Light Seltzer,102,17.0,1734.0,Seltzer
+228,2026-08-11,East,Mango Cart,51,13.0,663.0,Craft
+229,2026-08-11,West,Michelob Ultra,247,14.0,3458.0,Core Beer
+230,2026-08-11,West,Bud Light,233,12.5,2912.5,Core Beer
+231,2026-08-11,West,Corona Extra,232,14.0,3248.0,Premium
+232,2026-08-11,West,Budweiser,221,12.0,2652.0,Core Beer
+233,2026-08-11,West,Busch Light,209,12.0,2508.0,Value
+234,2026-08-11,West,Stella Artois,209,16.0,3344.0,Premium
+235,2026-08-11,West,Natural Light,194,11.0,2134.0,Value
+236,2026-08-11,West,Busch,172,11.5,1978.0,Value
+237,2026-08-11,West,Nutrl,118,18.0,2124.0,Seltzer
+238,2026-08-11,West,Kona Big Wave,117,15.5,1813.5,Craft
+239,2026-08-11,West,Bud Light Seltzer,87,17.0,1479.0,Seltzer
+240,2026-08-11,West,Mango Cart,73,13.0,949.0,Craft
+241,2026-08-12,North,Michelob Ultra,250,14.0,3500.0,Core Beer
+242,2026-08-12,North,Bud Light,247,12.5,3087.5,Core Beer
+243,2026-08-12,North,Corona Extra,236,14.0,3304.0,Premium
+244,2026-08-12,North,Budweiser,193,12.0,2316.0,Core Beer
+245,2026-08-12,North,Busch Light,188,12.0,2256.0,Value
+246,2026-08-12,North,Stella Artois,173,16.0,2768.0,Premium
+247,2026-08-12,North,Natural Light,165,11.0,1815.0,Value
+248,2026-08-12,North,Busch,147,11.5,1690.5,Value
+249,2026-08-12,North,Nutrl,146,18.0,2628.0,Seltzer
+250,2026-08-12,North,Kona Big Wave,142,15.5,2201.0,Craft
+251,2026-08-12,North,Bud Light Seltzer,119,17.0,2023.0,Seltzer
+252,2026-08-12,North,Mango Cart,52,13.0,676.0,Craft
+253,2026-08-12,South,Michelob Ultra,248,14.0,3472.0,Core Beer
+254,2026-08-12,South,Bud Light,244,12.5,3050.0,Core Beer
+255,2026-08-12,South,Corona Extra,236,14.0,3304.0,Premium
+256,2026-08-12,South,Budweiser,213,12.0,2556.0,Core Beer
+257,2026-08-12,South,Busch Light,210,12.0,2520.0,Value
+258,2026-08-12,South,Stella Artois,197,16.0,3152.0,Premium
+259,2026-08-12,South,Natural Light,197,11.0,2167.0,Value
+260,2026-08-12,South,Busch,196,11.5,2254.0,Value
+261,2026-08-12,South,Nutrl,196,18.0,3528.0,Seltzer
+262,2026-08-12,South,Kona Big Wave,145,15.5,2247.5,Craft
+263,2026-08-12,South,Bud Light Seltzer,139,17.0,2363.0,Seltzer
+264,2026-08-12,South,Mango Cart,101,13.0,1313.0,Craft
+265,2026-08-12,East,Michelob Ultra,234,14.0,3276.0,Core Beer
+266,2026-08-12,East,Bud Light,227,12.5,2837.5,Core Beer
+267,2026-08-12,East,Corona Extra,217,14.0,3038.0,Premium
+268,2026-08-12,East,Budweiser,208,12.0,2496.0,Core Beer
+269,2026-08-12,East,Busch Light,200,12.0,2400.0,Value
+270,2026-08-12,East,Stella Artois,178,16.0,2848.0,Premium
+271,2026-08-12,East,Natural Light,177,11.0,1947.0,Value
+272,2026-08-12,East,Busch,153,11.5,1759.5,Value
+273,2026-08-12,East,Nutrl,131,18.0,2358.0,Seltzer
+274,2026-08-12,East,Kona Big Wave,91,15.5,1410.5,Craft
+275,2026-08-12,East,Bud Light Seltzer,88,17.0,1496.0,Seltzer
+276,2026-08-12,East,Mango Cart,60,13.0,780.0,Craft
+277,2026-08-12,West,Michelob Ultra,246,14.0,3444.0,Core Beer
+278,2026-08-12,West,Bud Light,193,12.5,2412.5,Core Beer
+279,2026-08-12,West,Corona Extra,189,14.0,2646.0,Premium
+280,2026-08-12,West,Budweiser,178,12.0,2136.0,Core Beer
+281,2026-08-12,West,Busch Light,162,12.0,1944.0,Value
+282,2026-08-12,West,Stella Artois,161,16.0,2576.0,Premium
+283,2026-08-12,West,Natural Light,148,11.0,1628.0,Value
+284,2026-08-12,West,Busch,139,11.5,1598.5,Value
+285,2026-08-12,West,Nutrl,109,18.0,1962.0,Seltzer
+286,2026-08-12,West,Kona Big Wave,97,15.5,1503.5,Craft
+287,2026-08-12,West,Bud Light Seltzer,56,17.0,952.0,Seltzer
+288,2026-08-12,West,Mango Cart,51,13.0,663.0,Craft
+289,2026-08-13,North,Michelob Ultra,210,14.0,2940.0,Core Beer
+290,2026-08-13,North,Bud Light,209,12.5,2612.5,Core Beer
+291,2026-08-13,North,Corona Extra,201,14.0,2814.0,Premium
+292,2026-08-13,North,Budweiser,197,12.0,2364.0,Core Beer
+293,2026-08-13,North,Busch Light,196,12.0,2352.0,Value
+294,2026-08-13,North,Stella Artois,180,16.0,2880.0,Premium
+295,2026-08-13,North,Natural Light,169,11.0,1859.0,Value
+296,2026-08-13,North,Busch,148,11.5,1702.0,Value
+297,2026-08-13,North,Nutrl,103,18.0,1854.0,Seltzer
+298,2026-08-13,North,Kona Big Wave,97,15.5,1503.5,Craft
+299,2026-08-13,North,Bud Light Seltzer,86,17.0,1462.0,Seltzer
+300,2026-08-13,North,Mango Cart,58,13.0,754.0,Craft
+301,2026-08-13,South,Michelob Ultra,249,14.0,3486.0,Core Beer
+302,2026-08-13,South,Bud Light,215,12.5,2687.5,Core Beer
+303,2026-08-13,South,Corona Extra,213,14.0,2982.0,Premium
+304,2026-08-13,South,Budweiser,202,12.0,2424.0,Core Beer
+305,2026-08-13,South,Busch Light,201,12.0,2412.0,Value
+306,2026-08-13,South,Stella Artois,165,16.0,2640.0,Premium
+307,2026-08-13,South,Natural Light,162,11.0,1782.0,Value
+308,2026-08-13,South,Busch,161,11.5,1851.5,Value
+309,2026-08-13,South,Nutrl,153,18.0,2754.0,Seltzer
+310,2026-08-13,South,Kona Big Wave,148,15.5,2294.0,Craft
+311,2026-08-13,South,Bud Light Seltzer,133,17.0,2261.0,Seltzer
+312,2026-08-13,South,Mango Cart,124,13.0,1612.0,Craft
+313,2026-08-13,East,Michelob Ultra,243,14.0,3402.0,Core Beer
+314,2026-08-13,East,Bud Light,238,12.5,2975.0,Core Beer
+315,2026-08-13,East,Corona Extra,218,14.0,3052.0,Premium
+316,2026-08-13,East,Budweiser,212,12.0,2544.0,Core Beer
+317,2026-08-13,East,Busch Light,210,12.0,2520.0,Value
+318,2026-08-13,East,Stella Artois,195,16.0,3120.0,Premium
+319,2026-08-13,East,Natural Light,177,11.0,1947.0,Value
+320,2026-08-13,East,Busch,159,11.5,1828.5,Value
+321,2026-08-13,East,Nutrl,142,18.0,2556.0,Seltzer
+322,2026-08-13,East,Kona Big Wave,131,15.5,2030.5,Craft
+323,2026-08-13,East,Bud Light Seltzer,117,17.0,1989.0,Seltzer
+324,2026-08-13,East,Mango Cart,103,13.0,1339.0,Craft
+325,2026-08-13,West,Michelob Ultra,244,14.0,3416.0,Core Beer
+326,2026-08-13,West,Bud Light,197,12.5,2462.5,Core Beer
+327,2026-08-13,West,Corona Extra,194,14.0,2716.0,Premium
+328,2026-08-13,West,Budweiser,191,12.0,2292.0,Core Beer
+329,2026-08-13,West,Busch Light,185,12.0,2220.0,Value
+330,2026-08-13,West,Stella Artois,184,16.0,2944.0,Premium
+331,2026-08-13,West,Natural Light,177,11.0,1947.0,Value
+332,2026-08-13,West,Busch,177,11.5,2035.5,Value
+333,2026-08-13,West,Nutrl,97,18.0,1746.0,Seltzer
+334,2026-08-13,West,Kona Big Wave,82,15.5,1271.0,Craft
+335,2026-08-13,West,Bud Light Seltzer,82,17.0,1394.0,Seltzer
+336,2026-08-13,West,Mango Cart,70,13.0,910.0,Craft
+337,2026-08-14,North,Michelob Ultra,236,14.0,3304.0,Core Beer
+338,2026-08-14,North,Bud Light,231,12.5,2887.5,Core Beer
+339,2026-08-14,North,Corona Extra,225,14.0,3150.0,Premium
+340,2026-08-14,North,Budweiser,207,12.0,2484.0,Core Beer
+341,2026-08-14,North,Busch Light,168,12.0,2016.0,Value
+342,2026-08-14,North,Stella Artois,164,16.0,2624.0,Premium
+343,2026-08-14,North,Natural Light,158,11.0,1738.0,Value
+344,2026-08-14,North,Busch,100,11.5,1150.0,Value
+345,2026-08-14,North,Nutrl,87,18.0,1566.0,Seltzer
+346,2026-08-14,North,Kona Big Wave,76,15.5,1178.0,Craft
+347,2026-08-14,North,Bud Light Seltzer,71,17.0,1207.0,Seltzer
+348,2026-08-14,North,Mango Cart,57,13.0,741.0,Craft
+349,2026-08-14,South,Michelob Ultra,246,14.0,3444.0,Core Beer
+350,2026-08-14,South,Bud Light,241,12.5,3012.5,Core Beer
+351,2026-08-14,South,Corona Extra,196,14.0,2744.0,Premium
+352,2026-08-14,South,Budweiser,160,12.0,1920.0,Core Beer
+353,2026-08-14,South,Busch Light,146,12.0,1752.0,Value
+354,2026-08-14,South,Stella Artois,110,16.0,1760.0,Premium
+355,2026-08-14,South,Natural Light,97,11.0,1067.0,Value
+356,2026-08-14,South,Busch,79,11.5,908.5,Value
+357,2026-08-14,South,Nutrl,77,18.0,1386.0,Seltzer
+358,2026-08-14,South,Kona Big Wave,76,15.5,1178.0,Craft
+359,2026-08-14,South,Bud Light Seltzer,70,17.0,1190.0,Seltzer
+360,2026-08-14,South,Mango Cart,53,13.0,689.0,Craft
+361,2026-08-14,East,Michelob Ultra,241,14.0,3374.0,Core Beer
+362,2026-08-14,East,Bud Light,221,12.5,2762.5,Core Beer
+363,2026-08-14,East,Corona Extra,207,14.0,2898.0,Premium
+364,2026-08-14,East,Budweiser,173,12.0,2076.0,Core Beer
+365,2026-08-14,East,Busch Light,166,12.0,1992.0,Value
+366,2026-08-14,East,Stella Artois,148,16.0,2368.0,Premium
+367,2026-08-14,East,Natural Light,98,11.0,1078.0,Value
+368,2026-08-14,East,Busch,95,11.5,1092.5,Value
+369,2026-08-14,East,Nutrl,86,18.0,1548.0,Seltzer
+370,2026-08-14,East,Kona Big Wave,84,15.5,1302.0,Craft
+371,2026-08-14,East,Bud Light Seltzer,66,17.0,1122.0,Seltzer
+372,2026-08-14,East,Mango Cart,55,13.0,715.0,Craft
+373,2026-08-14,West,Michelob Ultra,240,14.0,3360.0,Core Beer
+374,2026-08-14,West,Bud Light,237,12.5,2962.5,Core Beer
+375,2026-08-14,West,Corona Extra,230,14.0,3220.0,Premium
+376,2026-08-14,West,Budweiser,210,12.0,2520.0,Core Beer
+377,2026-08-14,West,Busch Light,209,12.0,2508.0,Value
+378,2026-08-14,West,Stella Artois,165,16.0,2640.0,Premium
+379,2026-08-14,West,Natural Light,148,11.0,1628.0,Value
+380,2026-08-14,West,Busch,144,11.5,1656.0,Value
+381,2026-08-14,West,Nutrl,142,18.0,2556.0,Seltzer
+382,2026-08-14,West,Kona Big Wave,116,15.5,1798.0,Craft
+383,2026-08-14,West,Bud Light Seltzer,95,17.0,1615.0,Seltzer
+384,2026-08-14,West,Mango Cart,73,13.0,949.0,Craft
+385,2026-08-15,North,Michelob Ultra,224,14.0,3136.0,Core Beer
+386,2026-08-15,North,Bud Light,223,12.5,2787.5,Core Beer
+387,2026-08-15,North,Corona Extra,177,14.0,2478.0,Premium
+388,2026-08-15,North,Budweiser,163,12.0,1956.0,Core Beer
+389,2026-08-15,North,Busch Light,153,12.0,1836.0,Value
+390,2026-08-15,North,Stella Artois,116,16.0,1856.0,Premium
+391,2026-08-15,North,Natural Light,107,11.0,1177.0,Value
+392,2026-08-15,North,Busch,103,11.5,1184.5,Value
+393,2026-08-15,North,Nutrl,81,18.0,1458.0,Seltzer
+394,2026-08-15,North,Kona Big Wave,74,15.5,1147.0,Craft
+395,2026-08-15,North,Bud Light Seltzer,73,17.0,1241.0,Seltzer
+396,2026-08-15,North,Mango Cart,67,13.0,871.0,Craft
+397,2026-08-15,South,Michelob Ultra,243,14.0,3402.0,Core Beer
+398,2026-08-15,South,Bud Light,225,12.5,2812.5,Core Beer
+399,2026-08-15,South,Corona Extra,210,14.0,2940.0,Premium
+400,2026-08-15,South,Budweiser,204,12.0,2448.0,Core Beer
+401,2026-08-15,South,Busch Light,200,12.0,2400.0,Value
+402,2026-08-15,South,Stella Artois,186,16.0,2976.0,Premium
+403,2026-08-15,South,Natural Light,179,11.0,1969.0,Value
+404,2026-08-15,South,Busch,176,11.5,2024.0,Value
+405,2026-08-15,South,Nutrl,153,18.0,2754.0,Seltzer
+406,2026-08-15,South,Kona Big Wave,135,15.5,2092.5,Craft
+407,2026-08-15,South,Bud Light Seltzer,92,17.0,1564.0,Seltzer
+408,2026-08-15,South,Mango Cart,66,13.0,858.0,Craft
+409,2026-08-15,East,Michelob Ultra,219,14.0,3066.0,Core Beer
+410,2026-08-15,East,Bud Light,202,12.5,2525.0,Core Beer
+411,2026-08-15,East,Corona Extra,201,14.0,2814.0,Premium
+412,2026-08-15,East,Budweiser,184,12.0,2208.0,Core Beer
+413,2026-08-15,East,Busch Light,148,12.0,1776.0,Value
+414,2026-08-15,East,Stella Artois,109,16.0,1744.0,Premium
+415,2026-08-15,East,Natural Light,106,11.0,1166.0,Value
+416,2026-08-15,East,Busch,99,11.5,1138.5,Value
+417,2026-08-15,East,Nutrl,88,18.0,1584.0,Seltzer
+418,2026-08-15,East,Kona Big Wave,85,15.5,1317.5,Craft
+419,2026-08-15,East,Bud Light Seltzer,75,17.0,1275.0,Seltzer
+420,2026-08-15,East,Mango Cart,62,13.0,806.0,Craft
+421,2026-08-15,West,Michelob Ultra,222,14.0,3108.0,Core Beer
+422,2026-08-15,West,Bud Light,193,12.5,2412.5,Core Beer
+423,2026-08-15,West,Corona Extra,192,14.0,2688.0,Premium
+424,2026-08-15,West,Budweiser,191,12.0,2292.0,Core Beer
+425,2026-08-15,West,Busch Light,164,12.0,1968.0,Value
+426,2026-08-15,West,Stella Artois,147,16.0,2352.0,Premium
+427,2026-08-15,West,Natural Light,141,11.0,1551.0,Value
+428,2026-08-15,West,Busch,115,11.5,1322.5,Value
+429,2026-08-15,West,Nutrl,114,18.0,2052.0,Seltzer
+430,2026-08-15,West,Kona Big Wave,81,15.5,1255.5,Craft
+431,2026-08-15,West,Bud Light Seltzer,69,17.0,1173.0,Seltzer
+432,2026-08-15,West,Mango Cart,57,13.0,741.0,Craft
+433,2026-08-16,North,Michelob Ultra,240,14.0,3360.0,Core Beer
+434,2026-08-16,North,Bud Light,239,12.5,2987.5,Core Beer
+435,2026-08-16,North,Corona Extra,235,14.0,3290.0,Premium
+436,2026-08-16,North,Budweiser,202,12.0,2424.0,Core Beer
+437,2026-08-16,North,Busch Light,199,12.0,2388.0,Value
+438,2026-08-16,North,Stella Artois,174,16.0,2784.0,Premium
+439,2026-08-16,North,Natural Light,135,11.0,1485.0,Value
+440,2026-08-16,North,Busch,135,11.5,1552.5,Value
+441,2026-08-16,North,Nutrl,112,18.0,2016.0,Seltzer
+442,2026-08-16,North,Kona Big Wave,107,15.5,1658.5,Craft
+443,2026-08-16,North,Bud Light Seltzer,107,17.0,1819.0,Seltzer
+444,2026-08-16,North,Mango Cart,100,13.0,1300.0,Craft
+445,2026-08-16,South,Michelob Ultra,237,14.0,3318.0,Core Beer
+446,2026-08-16,South,Bud Light,229,12.5,2862.5,Core Beer
+447,2026-08-16,South,Corona Extra,219,14.0,3066.0,Premium
+448,2026-08-16,South,Budweiser,157,12.0,1884.0,Core Beer
+449,2026-08-16,South,Busch Light,150,12.0,1800.0,Value
+450,2026-08-16,South,Stella Artois,119,16.0,1904.0,Premium
+451,2026-08-16,South,Natural Light,109,11.0,1199.0,Value
+452,2026-08-16,South,Busch,103,11.5,1184.5,Value
+453,2026-08-16,South,Nutrl,102,18.0,1836.0,Seltzer
+454,2026-08-16,South,Kona Big Wave,98,15.5,1519.0,Craft
+455,2026-08-16,South,Bud Light Seltzer,64,17.0,1088.0,Seltzer
+456,2026-08-16,South,Mango Cart,57,13.0,741.0,Craft
+457,2026-08-16,East,Michelob Ultra,245,14.0,3430.0,Core Beer
+458,2026-08-16,East,Bud Light,217,12.5,2712.5,Core Beer
+459,2026-08-16,East,Corona Extra,165,14.0,2310.0,Premium
+460,2026-08-16,East,Budweiser,158,12.0,1896.0,Core Beer
+461,2026-08-16,East,Busch Light,152,12.0,1824.0,Value
+462,2026-08-16,East,Stella Artois,148,16.0,2368.0,Premium
+463,2026-08-16,East,Natural Light,143,11.0,1573.0,Value
+464,2026-08-16,East,Busch,104,11.5,1196.0,Value
+465,2026-08-16,East,Nutrl,101,18.0,1818.0,Seltzer
+466,2026-08-16,East,Kona Big Wave,96,15.5,1488.0,Craft
+467,2026-08-16,East,Bud Light Seltzer,55,17.0,935.0,Seltzer
+468,2026-08-16,East,Mango Cart,54,13.0,702.0,Craft
+469,2026-08-16,West,Michelob Ultra,207,14.0,2898.0,Core Beer
+470,2026-08-16,West,Bud Light,196,12.5,2450.0,Core Beer
+471,2026-08-16,West,Corona Extra,194,14.0,2716.0,Premium
+472,2026-08-16,West,Budweiser,193,12.0,2316.0,Core Beer
+473,2026-08-16,West,Busch Light,173,12.0,2076.0,Value
+474,2026-08-16,West,Stella Artois,169,16.0,2704.0,Premium
+475,2026-08-16,West,Natural Light,163,11.0,1793.0,Value
+476,2026-08-16,West,Busch,155,11.5,1782.5,Value
+477,2026-08-16,West,Nutrl,141,18.0,2538.0,Seltzer
+478,2026-08-16,West,Kona Big Wave,112,15.5,1736.0,Craft
+479,2026-08-16,West,Bud Light Seltzer,68,17.0,1156.0,Seltzer
+480,2026-08-16,West,Mango Cart,62,13.0,806.0,Craft
+481,2026-08-17,North,Michelob Ultra,232,14.0,3248.0,Core Beer
+482,2026-08-17,North,Bud Light,189,12.5,2362.5,Core Beer
+483,2026-08-17,North,Corona Extra,186,14.0,2604.0,Premium
+484,2026-08-17,North,Budweiser,178,12.0,2136.0,Core Beer
+485,2026-08-17,North,Busch Light,176,12.0,2112.0,Value
+486,2026-08-17,North,Stella Artois,171,16.0,2736.0,Premium
+487,2026-08-17,North,Natural Light,166,11.0,1826.0,Value
+488,2026-08-17,North,Busch,139,11.5,1598.5,Value
+489,2026-08-17,North,Nutrl,111,18.0,1998.0,Seltzer
+490,2026-08-17,North,Kona Big Wave,107,15.5,1658.5,Craft
+491,2026-08-17,North,Bud Light Seltzer,107,17.0,1819.0,Seltzer
+492,2026-08-17,North,Mango Cart,72,13.0,936.0,Craft
+493,2026-08-17,South,Michelob Ultra,241,14.0,3374.0,Core Beer
+494,2026-08-17,South,Bud Light,238,12.5,2975.0,Core Beer
+495,2026-08-17,South,Corona Extra,178,14.0,2492.0,Premium
+496,2026-08-17,South,Budweiser,175,12.0,2100.0,Core Beer
+497,2026-08-17,South,Busch Light,167,12.0,2004.0,Value
+498,2026-08-17,South,Stella Artois,166,16.0,2656.0,Premium
+499,2026-08-17,South,Natural Light,145,11.0,1595.0,Value
+500,2026-08-17,South,Busch,138,11.5,1587.0,Value
+501,2026-08-17,South,Nutrl,97,18.0,1746.0,Seltzer
+502,2026-08-17,South,Kona Big Wave,83,15.5,1286.5,Craft
+503,2026-08-17,South,Bud Light Seltzer,65,17.0,1105.0,Seltzer
+504,2026-08-17,South,Mango Cart,50,13.0,650.0,Craft
+505,2026-08-17,East,Michelob Ultra,244,14.0,3416.0,Core Beer
+506,2026-08-17,East,Bud Light,240,12.5,3000.0,Core Beer
+507,2026-08-17,East,Corona Extra,234,14.0,3276.0,Premium
+508,2026-08-17,East,Budweiser,228,12.0,2736.0,Core Beer
+509,2026-08-17,East,Busch Light,203,12.0,2436.0,Value
+510,2026-08-17,East,Stella Artois,193,16.0,3088.0,Premium
+511,2026-08-17,East,Natural Light,142,11.0,1562.0,Value
+512,2026-08-17,East,Busch,135,11.5,1552.5,Value
+513,2026-08-17,East,Nutrl,125,18.0,2250.0,Seltzer
+514,2026-08-17,East,Kona Big Wave,118,15.5,1829.0,Craft
+515,2026-08-17,East,Bud Light Seltzer,78,17.0,1326.0,Seltzer
+516,2026-08-17,East,Mango Cart,71,13.0,923.0,Craft
+517,2026-08-17,West,Michelob Ultra,246,14.0,3444.0,Core Beer
+518,2026-08-17,West,Bud Light,239,12.5,2987.5,Core Beer
+519,2026-08-17,West,Corona Extra,225,14.0,3150.0,Premium
+520,2026-08-17,West,Budweiser,193,12.0,2316.0,Core Beer
+521,2026-08-17,West,Busch Light,150,12.0,1800.0,Value
+522,2026-08-17,West,Stella Artois,149,16.0,2384.0,Premium
+523,2026-08-17,West,Natural Light,143,11.0,1573.0,Value
+524,2026-08-17,West,Busch,134,11.5,1541.0,Value
+525,2026-08-17,West,Nutrl,118,18.0,2124.0,Seltzer
+526,2026-08-17,West,Kona Big Wave,96,15.5,1488.0,Craft
+527,2026-08-17,West,Bud Light Seltzer,88,17.0,1496.0,Seltzer
+528,2026-08-17,West,Mango Cart,82,13.0,1066.0,Craft
+529,2026-08-18,North,Michelob Ultra,235,14.0,3290.0,Core Beer
+530,2026-08-18,North,Bud Light,229,12.5,2862.5,Core Beer
+531,2026-08-18,North,Corona Extra,196,14.0,2744.0,Premium
+532,2026-08-18,North,Budweiser,187,12.0,2244.0,Core Beer
+533,2026-08-18,North,Busch Light,149,12.0,1788.0,Value
+534,2026-08-18,North,Stella Artois,145,16.0,2320.0,Premium
+535,2026-08-18,North,Natural Light,118,11.0,1298.0,Value
+536,2026-08-18,North,Busch,118,11.5,1357.0,Value
+537,2026-08-18,North,Nutrl,83,18.0,1494.0,Seltzer
+538,2026-08-18,North,Kona Big Wave,72,15.5,1116.0,Craft
+539,2026-08-18,North,Bud Light Seltzer,59,17.0,1003.0,Seltzer
+540,2026-08-18,North,Mango Cart,50,13.0,650.0,Craft
+541,2026-08-18,South,Michelob Ultra,227,14.0,3178.0,Core Beer
+542,2026-08-18,South,Bud Light,212,12.5,2650.0,Core Beer
+543,2026-08-18,South,Corona Extra,209,14.0,2926.0,Premium
+544,2026-08-18,South,Budweiser,201,12.0,2412.0,Core Beer
+545,2026-08-18,South,Busch Light,189,12.0,2268.0,Value
+546,2026-08-18,South,Stella Artois,177,16.0,2832.0,Premium
+547,2026-08-18,South,Natural Light,133,11.0,1463.0,Value
+548,2026-08-18,South,Busch,129,11.5,1483.5,Value
+549,2026-08-18,South,Nutrl,73,18.0,1314.0,Seltzer
+550,2026-08-18,South,Kona Big Wave,65,15.5,1007.5,Craft
+551,2026-08-18,South,Bud Light Seltzer,53,17.0,901.0,Seltzer
+552,2026-08-18,South,Mango Cart,51,13.0,663.0,Craft
+553,2026-08-18,East,Michelob Ultra,238,14.0,3332.0,Core Beer
+554,2026-08-18,East,Bud Light,228,12.5,2850.0,Core Beer
+555,2026-08-18,East,Corona Extra,220,14.0,3080.0,Premium
+556,2026-08-18,East,Budweiser,217,12.0,2604.0,Core Beer
+557,2026-08-18,East,Busch Light,210,12.0,2520.0,Value
+558,2026-08-18,East,Stella Artois,210,16.0,3360.0,Premium
+559,2026-08-18,East,Natural Light,173,11.0,1903.0,Value
+560,2026-08-18,East,Busch,150,11.5,1725.0,Value
+561,2026-08-18,East,Nutrl,116,18.0,2088.0,Seltzer
+562,2026-08-18,East,Kona Big Wave,114,15.5,1767.0,Craft
+563,2026-08-18,East,Bud Light Seltzer,82,17.0,1394.0,Seltzer
+564,2026-08-18,East,Mango Cart,61,13.0,793.0,Craft
+565,2026-08-18,West,Michelob Ultra,190,14.0,2660.0,Core Beer
+566,2026-08-18,West,Bud Light,179,12.5,2237.5,Core Beer
+567,2026-08-18,West,Corona Extra,144,14.0,2016.0,Premium
+568,2026-08-18,West,Budweiser,139,12.0,1668.0,Core Beer
+569,2026-08-18,West,Busch Light,130,12.0,1560.0,Value
+570,2026-08-18,West,Stella Artois,123,16.0,1968.0,Premium
+571,2026-08-18,West,Natural Light,95,11.0,1045.0,Value
+572,2026-08-18,West,Busch,93,11.5,1069.5,Value
+573,2026-08-18,West,Nutrl,92,18.0,1656.0,Seltzer
+574,2026-08-18,West,Kona Big Wave,84,15.5,1302.0,Craft
+575,2026-08-18,West,Bud Light Seltzer,78,17.0,1326.0,Seltzer
+576,2026-08-18,West,Mango Cart,61,13.0,793.0,Craft
+577,2026-08-19,North,Michelob Ultra,245,14.0,3430.0,Core Beer
+578,2026-08-19,North,Bud Light,211,12.5,2637.5,Core Beer
+579,2026-08-19,North,Corona Extra,203,14.0,2842.0,Premium
+580,2026-08-19,North,Budweiser,184,12.0,2208.0,Core Beer
+581,2026-08-19,North,Busch Light,164,12.0,1968.0,Value
+582,2026-08-19,North,Stella Artois,163,16.0,2608.0,Premium
+583,2026-08-19,North,Natural Light,154,11.0,1694.0,Value
+584,2026-08-19,North,Busch,142,11.5,1633.0,Value
+585,2026-08-19,North,Nutrl,139,18.0,2502.0,Seltzer
+586,2026-08-19,North,Kona Big Wave,124,15.5,1922.0,Craft
+587,2026-08-19,North,Bud Light Seltzer,107,17.0,1819.0,Seltzer
+588,2026-08-19,North,Mango Cart,57,13.0,741.0,Craft
+589,2026-08-19,South,Michelob Ultra,250,14.0,3500.0,Core Beer
+590,2026-08-19,South,Bud Light,241,12.5,3012.5,Core Beer
+591,2026-08-19,South,Corona Extra,226,14.0,3164.0,Premium
+592,2026-08-19,South,Budweiser,213,12.0,2556.0,Core Beer
+593,2026-08-19,South,Busch Light,213,12.0,2556.0,Value
+594,2026-08-19,South,Stella Artois,206,16.0,3296.0,Premium
+595,2026-08-19,South,Natural Light,201,11.0,2211.0,Value
+596,2026-08-19,South,Busch,187,11.5,2150.5,Value
+597,2026-08-19,South,Nutrl,169,18.0,3042.0,Seltzer
+598,2026-08-19,South,Kona Big Wave,150,15.5,2325.0,Craft
+599,2026-08-19,South,Bud Light Seltzer,148,17.0,2516.0,Seltzer
+600,2026-08-19,South,Mango Cart,70,13.0,910.0,Craft
+601,2026-08-19,East,Michelob Ultra,239,14.0,3346.0,Core Beer
+602,2026-08-19,East,Bud Light,232,12.5,2900.0,Core Beer
+603,2026-08-19,East,Corona Extra,201,14.0,2814.0,Premium
+604,2026-08-19,East,Budweiser,200,12.0,2400.0,Core Beer
+605,2026-08-19,East,Busch Light,162,12.0,1944.0,Value
+606,2026-08-19,East,Stella Artois,148,16.0,2368.0,Premium
+607,2026-08-19,East,Natural Light,145,11.0,1595.0,Value
+608,2026-08-19,East,Busch,86,11.5,989.0,Value
+609,2026-08-19,East,Nutrl,85,18.0,1530.0,Seltzer
+610,2026-08-19,East,Kona Big Wave,72,15.5,1116.0,Craft
+611,2026-08-19,East,Bud Light Seltzer,62,17.0,1054.0,Seltzer
+612,2026-08-19,East,Mango Cart,61,13.0,793.0,Craft
+613,2026-08-19,West,Michelob Ultra,236,14.0,3304.0,Core Beer
+614,2026-08-19,West,Bud Light,226,12.5,2825.0,Core Beer
+615,2026-08-19,West,Corona Extra,190,14.0,2660.0,Premium
+616,2026-08-19,West,Budweiser,162,12.0,1944.0,Core Beer
+617,2026-08-19,West,Busch Light,161,12.0,1932.0,Value
+618,2026-08-19,West,Stella Artois,154,16.0,2464.0,Premium
+619,2026-08-19,West,Natural Light,135,11.0,1485.0,Value
+620,2026-08-19,West,Busch,133,11.5,1529.5,Value
+621,2026-08-19,West,Nutrl,111,18.0,1998.0,Seltzer
+622,2026-08-19,West,Kona Big Wave,79,15.5,1224.5,Craft
+623,2026-08-19,West,Bud Light Seltzer,68,17.0,1156.0,Seltzer
+624,2026-08-19,West,Mango Cart,66,13.0,858.0,Craft
+625,2026-08-20,North,Michelob Ultra,248,14.0,3472.0,Core Beer
+626,2026-08-20,North,Bud Light,238,12.5,2975.0,Core Beer
+627,2026-08-20,North,Corona Extra,196,14.0,2744.0,Premium
+628,2026-08-20,North,Budweiser,189,12.0,2268.0,Core Beer
+629,2026-08-20,North,Busch Light,177,12.0,2124.0,Value
+630,2026-08-20,North,Stella Artois,160,16.0,2560.0,Premium
+631,2026-08-20,North,Natural Light,149,11.0,1639.0,Value
+632,2026-08-20,North,Busch,132,11.5,1518.0,Value
+633,2026-08-20,North,Nutrl,125,18.0,2250.0,Seltzer
+634,2026-08-20,North,Kona Big Wave,101,15.5,1565.5,Craft
+635,2026-08-20,North,Bud Light Seltzer,77,17.0,1309.0,Seltzer
+636,2026-08-20,North,Mango Cart,58,13.0,754.0,Craft
+637,2026-08-20,South,Michelob Ultra,229,14.0,3206.0,Core Beer
+638,2026-08-20,South,Bud Light,200,12.5,2500.0,Core Beer
+639,2026-08-20,South,Corona Extra,193,14.0,2702.0,Premium
+640,2026-08-20,South,Budweiser,193,12.0,2316.0,Core Beer
+641,2026-08-20,South,Busch Light,189,12.0,2268.0,Value
+642,2026-08-20,South,Stella Artois,172,16.0,2752.0,Premium
+643,2026-08-20,South,Natural Light,166,11.0,1826.0,Value
+644,2026-08-20,South,Busch,148,11.5,1702.0,Value
+645,2026-08-20,South,Nutrl,118,18.0,2124.0,Seltzer
+646,2026-08-20,South,Kona Big Wave,106,15.5,1643.0,Craft
+647,2026-08-20,South,Bud Light Seltzer,102,17.0,1734.0,Seltzer
+648,2026-08-20,South,Mango Cart,74,13.0,962.0,Craft
+649,2026-08-20,East,Michelob Ultra,235,14.0,3290.0,Core Beer
+650,2026-08-20,East,Bud Light,230,12.5,2875.0,Core Beer
+651,2026-08-20,East,Corona Extra,216,14.0,3024.0,Premium
+652,2026-08-20,East,Budweiser,212,12.0,2544.0,Core Beer
+653,2026-08-20,East,Busch Light,195,12.0,2340.0,Value
+654,2026-08-20,East,Stella Artois,191,16.0,3056.0,Premium
+655,2026-08-20,East,Natural Light,182,11.0,2002.0,Value
+656,2026-08-20,East,Busch,171,11.5,1966.5,Value
+657,2026-08-20,East,Nutrl,158,18.0,2844.0,Seltzer
+658,2026-08-20,East,Kona Big Wave,124,15.5,1922.0,Craft
+659,2026-08-20,East,Bud Light Seltzer,91,17.0,1547.0,Seltzer
+660,2026-08-20,East,Mango Cart,88,13.0,1144.0,Craft
+661,2026-08-20,West,Michelob Ultra,235,14.0,3290.0,Core Beer
+662,2026-08-20,West,Bud Light,227,12.5,2837.5,Core Beer
+663,2026-08-20,West,Corona Extra,223,14.0,3122.0,Premium
+664,2026-08-20,West,Budweiser,219,12.0,2628.0,Core Beer
+665,2026-08-20,West,Busch Light,217,12.0,2604.0,Value
+666,2026-08-20,West,Stella Artois,194,16.0,3104.0,Premium
+667,2026-08-20,West,Natural Light,190,11.0,2090.0,Value
+668,2026-08-20,West,Busch,186,11.5,2139.0,Value
+669,2026-08-20,West,Nutrl,125,18.0,2250.0,Seltzer
+670,2026-08-20,West,Kona Big Wave,123,15.5,1906.5,Craft
+671,2026-08-20,West,Bud Light Seltzer,58,17.0,986.0,Seltzer
+672,2026-08-20,West,Mango Cart,56,13.0,728.0,Craft
+673,2026-08-21,North,Michelob Ultra,243,14.0,3402.0,Core Beer
+674,2026-08-21,North,Bud Light,215,12.5,2687.5,Core Beer
+675,2026-08-21,North,Corona Extra,214,14.0,2996.0,Premium
+676,2026-08-21,North,Budweiser,185,12.0,2220.0,Core Beer
+677,2026-08-21,North,Busch Light,171,12.0,2052.0,Value
+678,2026-08-21,North,Stella Artois,158,16.0,2528.0,Premium
+679,2026-08-21,North,Natural Light,135,11.0,1485.0,Value
+680,2026-08-21,North,Busch,132,11.5,1518.0,Value
+681,2026-08-21,North,Nutrl,114,18.0,2052.0,Seltzer
+682,2026-08-21,North,Kona Big Wave,78,15.5,1209.0,Craft
+683,2026-08-21,North,Bud Light Seltzer,76,17.0,1292.0,Seltzer
+684,2026-08-21,North,Mango Cart,54,13.0,702.0,Craft
+685,2026-08-21,South,Michelob Ultra,238,14.0,3332.0,Core Beer
+686,2026-08-21,South,Bud Light,231,12.5,2887.5,Core Beer
+687,2026-08-21,South,Corona Extra,216,14.0,3024.0,Premium
+688,2026-08-21,South,Budweiser,208,12.0,2496.0,Core Beer
+689,2026-08-21,South,Busch Light,194,12.0,2328.0,Value
+690,2026-08-21,South,Stella Artois,181,16.0,2896.0,Premium
+691,2026-08-21,South,Natural Light,157,11.0,1727.0,Value
+692,2026-08-21,South,Busch,120,11.5,1380.0,Value
+693,2026-08-21,South,Nutrl,119,18.0,2142.0,Seltzer
+694,2026-08-21,South,Kona Big Wave,94,15.5,1457.0,Craft
+695,2026-08-21,South,Bud Light Seltzer,85,17.0,1445.0,Seltzer
+696,2026-08-21,South,Mango Cart,68,13.0,884.0,Craft
+697,2026-08-21,East,Michelob Ultra,249,14.0,3486.0,Core Beer
+698,2026-08-21,East,Bud Light,244,12.5,3050.0,Core Beer
+699,2026-08-21,East,Corona Extra,222,14.0,3108.0,Premium
+700,2026-08-21,East,Budweiser,197,12.0,2364.0,Core Beer
+701,2026-08-21,East,Busch Light,190,12.0,2280.0,Value
+702,2026-08-21,East,Stella Artois,175,16.0,2800.0,Premium
+703,2026-08-21,East,Natural Light,175,11.0,1925.0,Value
+704,2026-08-21,East,Busch,140,11.5,1610.0,Value
+705,2026-08-21,East,Nutrl,139,18.0,2502.0,Seltzer
+706,2026-08-21,East,Kona Big Wave,107,15.5,1658.5,Craft
+707,2026-08-21,East,Bud Light Seltzer,88,17.0,1496.0,Seltzer
+708,2026-08-21,East,Mango Cart,68,13.0,884.0,Craft
+709,2026-08-21,West,Michelob Ultra,240,14.0,3360.0,Core Beer
+710,2026-08-21,West,Bud Light,239,12.5,2987.5,Core Beer
+711,2026-08-21,West,Corona Extra,216,14.0,3024.0,Premium
+712,2026-08-21,West,Budweiser,202,12.0,2424.0,Core Beer
+713,2026-08-21,West,Busch Light,180,12.0,2160.0,Value
+714,2026-08-21,West,Stella Artois,176,16.0,2816.0,Premium
+715,2026-08-21,West,Natural Light,162,11.0,1782.0,Value
+716,2026-08-21,West,Busch,154,11.5,1771.0,Value
+717,2026-08-21,West,Nutrl,141,18.0,2538.0,Seltzer
+718,2026-08-21,West,Kona Big Wave,110,15.5,1705.0,Craft
+719,2026-08-21,West,Bud Light Seltzer,105,17.0,1785.0,Seltzer
+720,2026-08-21,West,Mango Cart,50,13.0,650.0,Craft
+721,2026-08-22,North,Michelob Ultra,222,14.0,3108.0,Core Beer
+722,2026-08-22,North,Bud Light,222,12.5,2775.0,Core Beer
+723,2026-08-22,North,Corona Extra,215,14.0,3010.0,Premium
+724,2026-08-22,North,Budweiser,210,12.0,2520.0,Core Beer
+725,2026-08-22,North,Busch Light,209,12.0,2508.0,Value
+726,2026-08-22,North,Stella Artois,198,16.0,3168.0,Premium
+727,2026-08-22,North,Natural Light,183,11.0,2013.0,Value
+728,2026-08-22,North,Busch,166,11.5,1909.0,Value
+729,2026-08-22,North,Nutrl,110,18.0,1980.0,Seltzer
+730,2026-08-22,North,Kona Big Wave,107,15.5,1658.5,Craft
+731,2026-08-22,North,Bud Light Seltzer,96,17.0,1632.0,Seltzer
+732,2026-08-22,North,Mango Cart,93,13.0,1209.0,Craft
+733,2026-08-22,South,Michelob Ultra,234,14.0,3276.0,Core Beer
+734,2026-08-22,South,Bud Light,213,12.5,2662.5,Core Beer
+735,2026-08-22,South,Corona Extra,208,14.0,2912.0,Premium
+736,2026-08-22,South,Budweiser,196,12.0,2352.0,Core Beer
+737,2026-08-22,South,Busch Light,195,12.0,2340.0,Value
+738,2026-08-22,South,Stella Artois,192,16.0,3072.0,Premium
+739,2026-08-22,South,Natural Light,167,11.0,1837.0,Value
+740,2026-08-22,South,Busch,129,11.5,1483.5,Value
+741,2026-08-22,South,Nutrl,98,18.0,1764.0,Seltzer
+742,2026-08-22,South,Kona Big Wave,96,15.5,1488.0,Craft
+743,2026-08-22,South,Bud Light Seltzer,69,17.0,1173.0,Seltzer
+744,2026-08-22,South,Mango Cart,63,13.0,819.0,Craft
+745,2026-08-22,East,Michelob Ultra,249,14.0,3486.0,Core Beer
+746,2026-08-22,East,Bud Light,234,12.5,2925.0,Core Beer
+747,2026-08-22,East,Corona Extra,193,14.0,2702.0,Premium
+748,2026-08-22,East,Budweiser,167,12.0,2004.0,Core Beer
+749,2026-08-22,East,Busch Light,166,12.0,1992.0,Value
+750,2026-08-22,East,Stella Artois,151,16.0,2416.0,Premium
+751,2026-08-22,East,Natural Light,123,11.0,1353.0,Value
+752,2026-08-22,East,Busch,103,11.5,1184.5,Value
+753,2026-08-22,East,Nutrl,65,18.0,1170.0,Seltzer
+754,2026-08-22,East,Kona Big Wave,61,15.5,945.5,Craft
+755,2026-08-22,East,Bud Light Seltzer,52,17.0,884.0,Seltzer
+756,2026-08-22,East,Mango Cart,50,13.0,650.0,Craft
+757,2026-08-22,West,Michelob Ultra,235,14.0,3290.0,Core Beer
+758,2026-08-22,West,Bud Light,227,12.5,2837.5,Core Beer
+759,2026-08-22,West,Corona Extra,213,14.0,2982.0,Premium
+760,2026-08-22,West,Budweiser,205,12.0,2460.0,Core Beer
+761,2026-08-22,West,Busch Light,201,12.0,2412.0,Value
+762,2026-08-22,West,Stella Artois,185,16.0,2960.0,Premium
+763,2026-08-22,West,Natural Light,171,11.0,1881.0,Value
+764,2026-08-22,West,Busch,166,11.5,1909.0,Value
+765,2026-08-22,West,Nutrl,141,18.0,2538.0,Seltzer
+766,2026-08-22,West,Kona Big Wave,139,15.5,2154.5,Craft
+767,2026-08-22,West,Bud Light Seltzer,109,17.0,1853.0,Seltzer
+768,2026-08-22,West,Mango Cart,57,13.0,741.0,Craft
+769,2026-08-23,North,Michelob Ultra,250,14.0,3500.0,Core Beer
+770,2026-08-23,North,Bud Light,241,12.5,3012.5,Core Beer
+771,2026-08-23,North,Corona Extra,240,14.0,3360.0,Premium
+772,2026-08-23,North,Budweiser,210,12.0,2520.0,Core Beer
+773,2026-08-23,North,Busch Light,206,12.0,2472.0,Value
+774,2026-08-23,North,Stella Artois,204,16.0,3264.0,Premium
+775,2026-08-23,North,Natural Light,194,11.0,2134.0,Value
+776,2026-08-23,North,Busch,190,11.5,2185.0,Value
+777,2026-08-23,North,Nutrl,150,18.0,2700.0,Seltzer
+778,2026-08-23,North,Kona Big Wave,95,15.5,1472.5,Craft
+779,2026-08-23,North,Bud Light Seltzer,90,17.0,1530.0,Seltzer
+780,2026-08-23,North,Mango Cart,77,13.0,1001.0,Craft
+781,2026-08-23,South,Michelob Ultra,246,14.0,3444.0,Core Beer
+782,2026-08-23,South,Bud Light,243,12.5,3037.5,Core Beer
+783,2026-08-23,South,Corona Extra,202,14.0,2828.0,Premium
+784,2026-08-23,South,Budweiser,183,12.0,2196.0,Core Beer
+785,2026-08-23,South,Busch Light,164,12.0,1968.0,Value
+786,2026-08-23,South,Stella Artois,158,16.0,2528.0,Premium
+787,2026-08-23,South,Natural Light,131,11.0,1441.0,Value
+788,2026-08-23,South,Busch,105,11.5,1207.5,Value
+789,2026-08-23,South,Nutrl,96,18.0,1728.0,Seltzer
+790,2026-08-23,South,Kona Big Wave,84,15.5,1302.0,Craft
+791,2026-08-23,South,Bud Light Seltzer,79,17.0,1343.0,Seltzer
+792,2026-08-23,South,Mango Cart,59,13.0,767.0,Craft
+793,2026-08-23,East,Michelob Ultra,226,14.0,3164.0,Core Beer
+794,2026-08-23,East,Bud Light,195,12.5,2437.5,Core Beer
+795,2026-08-23,East,Corona Extra,168,14.0,2352.0,Premium
+796,2026-08-23,East,Budweiser,167,12.0,2004.0,Core Beer
+797,2026-08-23,East,Busch Light,135,12.0,1620.0,Value
+798,2026-08-23,East,Stella Artois,134,16.0,2144.0,Premium
+799,2026-08-23,East,Natural Light,114,11.0,1254.0,Value
+800,2026-08-23,East,Busch,112,11.5,1288.0,Value
+801,2026-08-23,East,Nutrl,82,18.0,1476.0,Seltzer
+802,2026-08-23,East,Kona Big Wave,75,15.5,1162.5,Craft
+803,2026-08-23,East,Bud Light Seltzer,60,17.0,1020.0,Seltzer
+804,2026-08-23,East,Mango Cart,54,13.0,702.0,Craft
+805,2026-08-23,West,Michelob Ultra,246,14.0,3444.0,Core Beer
+806,2026-08-23,West,Bud Light,226,12.5,2825.0,Core Beer
+807,2026-08-23,West,Corona Extra,210,14.0,2940.0,Premium
+808,2026-08-23,West,Budweiser,198,12.0,2376.0,Core Beer
+809,2026-08-23,West,Busch Light,178,12.0,2136.0,Value
+810,2026-08-23,West,Stella Artois,154,16.0,2464.0,Premium
+811,2026-08-23,West,Natural Light,148,11.0,1628.0,Value
+812,2026-08-23,West,Busch,147,11.5,1690.5,Value
+813,2026-08-23,West,Nutrl,108,18.0,1944.0,Seltzer
+814,2026-08-23,West,Kona Big Wave,104,15.5,1612.0,Craft
+815,2026-08-23,West,Bud Light Seltzer,76,17.0,1292.0,Seltzer
+816,2026-08-23,West,Mango Cart,55,13.0,715.0,Craft
+817,2026-08-24,North,Michelob Ultra,230,14.0,3220.0,Core Beer
+818,2026-08-24,North,Bud Light,214,12.5,2675.0,Core Beer
+819,2026-08-24,North,Corona Extra,194,14.0,2716.0,Premium
+820,2026-08-24,North,Budweiser,182,12.0,2184.0,Core Beer
+821,2026-08-24,North,Busch Light,151,12.0,1812.0,Value
+822,2026-08-24,North,Stella Artois,144,16.0,2304.0,Premium
+823,2026-08-24,North,Natural Light,134,11.0,1474.0,Value
+824,2026-08-24,North,Busch,132,11.5,1518.0,Value
+825,2026-08-24,North,Nutrl,127,18.0,2286.0,Seltzer
+826,2026-08-24,North,Kona Big Wave,102,15.5,1581.0,Craft
+827,2026-08-24,North,Bud Light Seltzer,72,17.0,1224.0,Seltzer
+828,2026-08-24,North,Mango Cart,52,13.0,676.0,Craft
+829,2026-08-24,South,Michelob Ultra,250,14.0,3500.0,Core Beer
+830,2026-08-24,South,Bud Light,242,12.5,3025.0,Core Beer
+831,2026-08-24,South,Corona Extra,239,14.0,3346.0,Premium
+832,2026-08-24,South,Budweiser,222,12.0,2664.0,Core Beer
+833,2026-08-24,South,Busch Light,162,12.0,1944.0,Value
+834,2026-08-24,South,Stella Artois,159,16.0,2544.0,Premium
+835,2026-08-24,South,Natural Light,141,11.0,1551.0,Value
+836,2026-08-24,South,Busch,100,11.5,1150.0,Value
+837,2026-08-24,South,Nutrl,83,18.0,1494.0,Seltzer
+838,2026-08-24,South,Kona Big Wave,81,15.5,1255.5,Craft
+839,2026-08-24,South,Bud Light Seltzer,53,17.0,901.0,Seltzer
+840,2026-08-24,South,Mango Cart,50,13.0,650.0,Craft
+841,2026-08-24,East,Michelob Ultra,242,14.0,3388.0,Core Beer
+842,2026-08-24,East,Bud Light,231,12.5,2887.5,Core Beer
+843,2026-08-24,East,Corona Extra,211,14.0,2954.0,Premium
+844,2026-08-24,East,Budweiser,203,12.0,2436.0,Core Beer
+845,2026-08-24,East,Busch Light,172,12.0,2064.0,Value
+846,2026-08-24,East,Stella Artois,167,16.0,2672.0,Premium
+847,2026-08-24,East,Natural Light,144,11.0,1584.0,Value
+848,2026-08-24,East,Busch,121,11.5,1391.5,Value
+849,2026-08-24,East,Nutrl,99,18.0,1782.0,Seltzer
+850,2026-08-24,East,Kona Big Wave,88,15.5,1364.0,Craft
+851,2026-08-24,East,Bud Light Seltzer,61,17.0,1037.0,Seltzer
+852,2026-08-24,East,Mango Cart,52,13.0,676.0,Craft
+853,2026-08-24,West,Michelob Ultra,228,14.0,3192.0,Core Beer
+854,2026-08-24,West,Bud Light,200,12.5,2500.0,Core Beer
+855,2026-08-24,West,Corona Extra,194,14.0,2716.0,Premium
+856,2026-08-24,West,Budweiser,191,12.0,2292.0,Core Beer
+857,2026-08-24,West,Busch Light,182,12.0,2184.0,Value
+858,2026-08-24,West,Stella Artois,161,16.0,2576.0,Premium
+859,2026-08-24,West,Natural Light,134,11.0,1474.0,Value
+860,2026-08-24,West,Busch,124,11.5,1426.0,Value
+861,2026-08-24,West,Nutrl,115,18.0,2070.0,Seltzer
+862,2026-08-24,West,Kona Big Wave,106,15.5,1643.0,Craft
+863,2026-08-24,West,Bud Light Seltzer,103,17.0,1751.0,Seltzer
+864,2026-08-24,West,Mango Cart,96,13.0,1248.0,Craft
+865,2026-08-25,North,Michelob Ultra,241,14.0,3374.0,Core Beer
+866,2026-08-25,North,Bud Light,240,12.5,3000.0,Core Beer
+867,2026-08-25,North,Corona Extra,228,14.0,3192.0,Premium
+868,2026-08-25,North,Budweiser,215,12.0,2580.0,Core Beer
+869,2026-08-25,North,Busch Light,152,12.0,1824.0,Value
+870,2026-08-25,North,Stella Artois,147,16.0,2352.0,Premium
+871,2026-08-25,North,Natural Light,140,11.0,1540.0,Value
+872,2026-08-25,North,Busch,131,11.5,1506.5,Value
+873,2026-08-25,North,Nutrl,128,18.0,2304.0,Seltzer
+874,2026-08-25,North,Kona Big Wave,99,15.5,1534.5,Craft
+875,2026-08-25,North,Bud Light Seltzer,87,17.0,1479.0,Seltzer
+876,2026-08-25,North,Mango Cart,79,13.0,1027.0,Craft
+877,2026-08-25,South,Michelob Ultra,233,14.0,3262.0,Core Beer
+878,2026-08-25,South,Bud Light,215,12.5,2687.5,Core Beer
+879,2026-08-25,South,Corona Extra,187,14.0,2618.0,Premium
+880,2026-08-25,South,Budweiser,182,12.0,2184.0,Core Beer
+881,2026-08-25,South,Busch Light,181,12.0,2172.0,Value
+882,2026-08-25,South,Stella Artois,155,16.0,2480.0,Premium
+883,2026-08-25,South,Natural Light,130,11.0,1430.0,Value
+884,2026-08-25,South,Busch,128,11.5,1472.0,Value
+885,2026-08-25,South,Nutrl,101,18.0,1818.0,Seltzer
+886,2026-08-25,South,Kona Big Wave,100,15.5,1550.0,Craft
+887,2026-08-25,South,Bud Light Seltzer,79,17.0,1343.0,Seltzer
+888,2026-08-25,South,Mango Cart,78,13.0,1014.0,Craft
+889,2026-08-25,East,Michelob Ultra,243,14.0,3402.0,Core Beer
+890,2026-08-25,East,Bud Light,194,12.5,2425.0,Core Beer
+891,2026-08-25,East,Corona Extra,175,14.0,2450.0,Premium
+892,2026-08-25,East,Budweiser,164,12.0,1968.0,Core Beer
+893,2026-08-25,East,Busch Light,133,12.0,1596.0,Value
+894,2026-08-25,East,Stella Artois,123,16.0,1968.0,Premium
+895,2026-08-25,East,Natural Light,118,11.0,1298.0,Value
+896,2026-08-25,East,Busch,102,11.5,1173.0,Value
+897,2026-08-25,East,Nutrl,92,18.0,1656.0,Seltzer
+898,2026-08-25,East,Kona Big Wave,83,15.5,1286.5,Craft
+899,2026-08-25,East,Bud Light Seltzer,66,17.0,1122.0,Seltzer
+900,2026-08-25,East,Mango Cart,55,13.0,715.0,Craft
+901,2026-08-25,West,Michelob Ultra,233,14.0,3262.0,Core Beer
+902,2026-08-25,West,Bud Light,232,12.5,2900.0,Core Beer
+903,2026-08-25,West,Corona Extra,200,14.0,2800.0,Premium
+904,2026-08-25,West,Budweiser,193,12.0,2316.0,Core Beer
+905,2026-08-25,West,Busch Light,181,12.0,2172.0,Value
+906,2026-08-25,West,Stella Artois,181,16.0,2896.0,Premium
+907,2026-08-25,West,Natural Light,167,11.0,1837.0,Value
+908,2026-08-25,West,Busch,160,11.5,1840.0,Value
+909,2026-08-25,West,Nutrl,153,18.0,2754.0,Seltzer
+910,2026-08-25,West,Kona Big Wave,144,15.5,2232.0,Craft
+911,2026-08-25,West,Bud Light Seltzer,129,17.0,2193.0,Seltzer
+912,2026-08-25,West,Mango Cart,57,13.0,741.0,Craft
+913,2026-08-26,North,Michelob Ultra,244,14.0,3416.0,Core Beer
+914,2026-08-26,North,Bud Light,244,12.5,3050.0,Core Beer
+915,2026-08-26,North,Corona Extra,227,14.0,3178.0,Premium
+916,2026-08-26,North,Budweiser,209,12.0,2508.0,Core Beer
+917,2026-08-26,North,Busch Light,204,12.0,2448.0,Value
+918,2026-08-26,North,Stella Artois,196,16.0,3136.0,Premium
+919,2026-08-26,North,Natural Light,171,11.0,1881.0,Value
+920,2026-08-26,North,Busch,145,11.5,1667.5,Value
+921,2026-08-26,North,Nutrl,142,18.0,2556.0,Seltzer
+922,2026-08-26,North,Kona Big Wave,110,15.5,1705.0,Craft
+923,2026-08-26,North,Bud Light Seltzer,100,17.0,1700.0,Seltzer
+924,2026-08-26,North,Mango Cart,74,13.0,962.0,Craft
+925,2026-08-26,South,Michelob Ultra,219,14.0,3066.0,Core Beer
+926,2026-08-26,South,Bud Light,198,12.5,2475.0,Core Beer
+927,2026-08-26,South,Corona Extra,182,14.0,2548.0,Premium
+928,2026-08-26,South,Budweiser,141,12.0,1692.0,Core Beer
+929,2026-08-26,South,Busch Light,139,12.0,1668.0,Value
+930,2026-08-26,South,Stella Artois,119,16.0,1904.0,Premium
+931,2026-08-26,South,Natural Light,110,11.0,1210.0,Value
+932,2026-08-26,South,Busch,71,11.5,816.5,Value
+933,2026-08-26,South,Nutrl,70,18.0,1260.0,Seltzer
+934,2026-08-26,South,Kona Big Wave,61,15.5,945.5,Craft
+935,2026-08-26,South,Bud Light Seltzer,54,17.0,918.0,Seltzer
+936,2026-08-26,South,Mango Cart,50,13.0,650.0,Craft
+937,2026-08-26,East,Michelob Ultra,226,14.0,3164.0,Core Beer
+938,2026-08-26,East,Bud Light,204,12.5,2550.0,Core Beer
+939,2026-08-26,East,Corona Extra,170,14.0,2380.0,Premium
+940,2026-08-26,East,Budweiser,143,12.0,1716.0,Core Beer
+941,2026-08-26,East,Busch Light,127,12.0,1524.0,Value
+942,2026-08-26,East,Stella Artois,122,16.0,1952.0,Premium
+943,2026-08-26,East,Natural Light,105,11.0,1155.0,Value
+944,2026-08-26,East,Busch,96,11.5,1104.0,Value
+945,2026-08-26,East,Nutrl,95,18.0,1710.0,Seltzer
+946,2026-08-26,East,Kona Big Wave,94,15.5,1457.0,Craft
+947,2026-08-26,East,Bud Light Seltzer,83,17.0,1411.0,Seltzer
+948,2026-08-26,East,Mango Cart,75,13.0,975.0,Craft
+949,2026-08-26,West,Michelob Ultra,229,14.0,3206.0,Core Beer
+950,2026-08-26,West,Bud Light,162,12.5,2025.0,Core Beer
+951,2026-08-26,West,Corona Extra,156,14.0,2184.0,Premium
+952,2026-08-26,West,Budweiser,148,12.0,1776.0,Core Beer
+953,2026-08-26,West,Busch Light,130,12.0,1560.0,Value
+954,2026-08-26,West,Stella Artois,112,16.0,1792.0,Premium
+955,2026-08-26,West,Natural Light,110,11.0,1210.0,Value
+956,2026-08-26,West,Busch,97,11.5,1115.5,Value
+957,2026-08-26,West,Nutrl,85,18.0,1530.0,Seltzer
+958,2026-08-26,West,Kona Big Wave,75,15.5,1162.5,Craft
+959,2026-08-26,West,Bud Light Seltzer,57,17.0,969.0,Seltzer
+960,2026-08-26,West,Mango Cart,50,13.0,650.0,Craft
+961,2026-08-27,North,Michelob Ultra,236,14.0,3304.0,Core Beer
+962,2026-08-27,North,Bud Light,203,12.5,2537.5,Core Beer
+963,2026-08-27,North,Corona Extra,179,14.0,2506.0,Premium
+964,2026-08-27,North,Budweiser,176,12.0,2112.0,Core Beer
+965,2026-08-27,North,Busch Light,158,12.0,1896.0,Value
+966,2026-08-27,North,Stella Artois,127,16.0,2032.0,Premium
+967,2026-08-27,North,Natural Light,105,11.0,1155.0,Value
+968,2026-08-27,North,Busch,105,11.5,1207.5,Value
+969,2026-08-27,North,Nutrl,96,18.0,1728.0,Seltzer
+970,2026-08-27,North,Kona Big Wave,77,15.5,1193.5,Craft
+971,2026-08-27,North,Bud Light Seltzer,63,17.0,1071.0,Seltzer
+972,2026-08-27,North,Mango Cart,63,13.0,819.0,Craft
+973,2026-08-27,South,Michelob Ultra,241,14.0,3374.0,Core Beer
+974,2026-08-27,South,Bud Light,200,12.5,2500.0,Core Beer
+975,2026-08-27,South,Corona Extra,168,14.0,2352.0,Premium
+976,2026-08-27,South,Budweiser,164,12.0,1968.0,Core Beer
+977,2026-08-27,South,Busch Light,164,12.0,1968.0,Value
+978,2026-08-27,South,Stella Artois,160,16.0,2560.0,Premium
+979,2026-08-27,South,Natural Light,156,11.0,1716.0,Value
+980,2026-08-27,South,Busch,87,11.5,1000.5,Value
+981,2026-08-27,South,Nutrl,67,18.0,1206.0,Seltzer
+982,2026-08-27,South,Kona Big Wave,64,15.5,992.0,Craft
+983,2026-08-27,South,Bud Light Seltzer,56,17.0,952.0,Seltzer
+984,2026-08-27,South,Mango Cart,52,13.0,676.0,Craft
+985,2026-08-27,East,Michelob Ultra,234,14.0,3276.0,Core Beer
+986,2026-08-27,East,Bud Light,194,12.5,2425.0,Core Beer
+987,2026-08-27,East,Corona Extra,175,14.0,2450.0,Premium
+988,2026-08-27,East,Budweiser,135,12.0,1620.0,Core Beer
+989,2026-08-27,East,Busch Light,117,12.0,1404.0,Value
+990,2026-08-27,East,Stella Artois,93,16.0,1488.0,Premium
+991,2026-08-27,East,Natural Light,88,11.0,968.0,Value
+992,2026-08-27,East,Busch,77,11.5,885.5,Value
+993,2026-08-27,East,Nutrl,74,18.0,1332.0,Seltzer
+994,2026-08-27,East,Kona Big Wave,74,15.5,1147.0,Craft
+995,2026-08-27,East,Bud Light Seltzer,66,17.0,1122.0,Seltzer
+996,2026-08-27,East,Mango Cart,62,13.0,806.0,Craft
+997,2026-08-27,West,Michelob Ultra,217,14.0,3038.0,Core Beer
+998,2026-08-27,West,Bud Light,195,12.5,2437.5,Core Beer
+999,2026-08-27,West,Corona Extra,187,14.0,2618.0,Premium
+1000,2026-08-27,West,Budweiser,162,12.0,1944.0,Core Beer
+1001,2026-08-27,West,Busch Light,160,12.0,1920.0,Value
+1002,2026-08-27,West,Stella Artois,160,16.0,2560.0,Premium
+1003,2026-08-27,West,Natural Light,160,11.0,1760.0,Value
+1004,2026-08-27,West,Busch,158,11.5,1817.0,Value
+1005,2026-08-27,West,Nutrl,132,18.0,2376.0,Seltzer
+1006,2026-08-27,West,Kona Big Wave,116,15.5,1798.0,Craft
+1007,2026-08-27,West,Bud Light Seltzer,83,17.0,1411.0,Seltzer
+1008,2026-08-27,West,Mango Cart,57,13.0,741.0,Craft
+1009,2026-08-28,North,Michelob Ultra,247,14.0,3458.0,Core Beer
+1010,2026-08-28,North,Bud Light,236,12.5,2950.0,Core Beer
+1011,2026-08-28,North,Corona Extra,233,14.0,3262.0,Premium
+1012,2026-08-28,North,Budweiser,229,12.0,2748.0,Core Beer
+1013,2026-08-28,North,Busch Light,218,12.0,2616.0,Value
+1014,2026-08-28,North,Stella Artois,158,16.0,2528.0,Premium
+1015,2026-08-28,North,Natural Light,150,11.0,1650.0,Value
+1016,2026-08-28,North,Busch,113,11.5,1299.5,Value
+1017,2026-08-28,North,Nutrl,108,18.0,1944.0,Seltzer
+1018,2026-08-28,North,Kona Big Wave,91,15.5,1410.5,Craft
+1019,2026-08-28,North,Bud Light Seltzer,75,17.0,1275.0,Seltzer
+1020,2026-08-28,North,Mango Cart,55,13.0,715.0,Craft
+1021,2026-08-28,South,Michelob Ultra,247,14.0,3458.0,Core Beer
+1022,2026-08-28,South,Bud Light,239,12.5,2987.5,Core Beer
+1023,2026-08-28,South,Corona Extra,230,14.0,3220.0,Premium
+1024,2026-08-28,South,Budweiser,199,12.0,2388.0,Core Beer
+1025,2026-08-28,South,Busch Light,170,12.0,2040.0,Value
+1026,2026-08-28,South,Stella Artois,161,16.0,2576.0,Premium
+1027,2026-08-28,South,Natural Light,143,11.0,1573.0,Value
+1028,2026-08-28,South,Busch,124,11.5,1426.0,Value
+1029,2026-08-28,South,Nutrl,119,18.0,2142.0,Seltzer
+1030,2026-08-28,South,Kona Big Wave,82,15.5,1271.0,Craft
+1031,2026-08-28,South,Bud Light Seltzer,70,17.0,1190.0,Seltzer
+1032,2026-08-28,South,Mango Cart,53,13.0,689.0,Craft
+1033,2026-08-28,East,Michelob Ultra,201,14.0,2814.0,Core Beer
+1034,2026-08-28,East,Bud Light,201,12.5,2512.5,Core Beer
+1035,2026-08-28,East,Corona Extra,186,14.0,2604.0,Premium
+1036,2026-08-28,East,Budweiser,180,12.0,2160.0,Core Beer
+1037,2026-08-28,East,Busch Light,144,12.0,1728.0,Value
+1038,2026-08-28,East,Stella Artois,143,16.0,2288.0,Premium
+1039,2026-08-28,East,Natural Light,111,11.0,1221.0,Value
+1040,2026-08-28,East,Busch,104,11.5,1196.0,Value
+1041,2026-08-28,East,Nutrl,89,18.0,1602.0,Seltzer
+1042,2026-08-28,East,Kona Big Wave,85,15.5,1317.5,Craft
+1043,2026-08-28,East,Bud Light Seltzer,80,17.0,1360.0,Seltzer
+1044,2026-08-28,East,Mango Cart,55,13.0,715.0,Craft
+1045,2026-08-28,West,Michelob Ultra,243,14.0,3402.0,Core Beer
+1046,2026-08-28,West,Bud Light,234,12.5,2925.0,Core Beer
+1047,2026-08-28,West,Corona Extra,228,14.0,3192.0,Premium
+1048,2026-08-28,West,Budweiser,183,12.0,2196.0,Core Beer
+1049,2026-08-28,West,Busch Light,167,12.0,2004.0,Value
+1050,2026-08-28,West,Stella Artois,162,16.0,2592.0,Premium
+1051,2026-08-28,West,Natural Light,143,11.0,1573.0,Value
+1052,2026-08-28,West,Busch,128,11.5,1472.0,Value
+1053,2026-08-28,West,Nutrl,124,18.0,2232.0,Seltzer
+1054,2026-08-28,West,Kona Big Wave,115,15.5,1782.5,Craft
+1055,2026-08-28,West,Bud Light Seltzer,111,17.0,1887.0,Seltzer
+1056,2026-08-28,West,Mango Cart,53,13.0,689.0,Craft
+1057,2026-08-29,North,Michelob Ultra,228,14.0,3192.0,Core Beer
+1058,2026-08-29,North,Bud Light,222,12.5,2775.0,Core Beer
+1059,2026-08-29,North,Corona Extra,203,14.0,2842.0,Premium
+1060,2026-08-29,North,Budweiser,185,12.0,2220.0,Core Beer
+1061,2026-08-29,North,Busch Light,182,12.0,2184.0,Value
+1062,2026-08-29,North,Stella Artois,167,16.0,2672.0,Premium
+1063,2026-08-29,North,Natural Light,128,11.0,1408.0,Value
+1064,2026-08-29,North,Busch,119,11.5,1368.5,Value
+1065,2026-08-29,North,Nutrl,117,18.0,2106.0,Seltzer
+1066,2026-08-29,North,Kona Big Wave,93,15.5,1441.5,Craft
+1067,2026-08-29,North,Bud Light Seltzer,75,17.0,1275.0,Seltzer
+1068,2026-08-29,North,Mango Cart,68,13.0,884.0,Craft
+1069,2026-08-29,South,Michelob Ultra,191,14.0,2674.0,Core Beer
+1070,2026-08-29,South,Bud Light,189,12.5,2362.5,Core Beer
+1071,2026-08-29,South,Corona Extra,188,14.0,2632.0,Premium
+1072,2026-08-29,South,Budweiser,175,12.0,2100.0,Core Beer
+1073,2026-08-29,South,Busch Light,162,12.0,1944.0,Value
+1074,2026-08-29,South,Stella Artois,139,16.0,2224.0,Premium
+1075,2026-08-29,South,Natural Light,113,11.0,1243.0,Value
+1076,2026-08-29,South,Busch,96,11.5,1104.0,Value
+1077,2026-08-29,South,Nutrl,87,18.0,1566.0,Seltzer
+1078,2026-08-29,South,Kona Big Wave,86,15.5,1333.0,Craft
+1079,2026-08-29,South,Bud Light Seltzer,69,17.0,1173.0,Seltzer
+1080,2026-08-29,South,Mango Cart,50,13.0,650.0,Craft
+1081,2026-08-29,East,Michelob Ultra,227,14.0,3178.0,Core Beer
+1082,2026-08-29,East,Bud Light,221,12.5,2762.5,Core Beer
+1083,2026-08-29,East,Corona Extra,210,14.0,2940.0,Premium
+1084,2026-08-29,East,Budweiser,200,12.0,2400.0,Core Beer
+1085,2026-08-29,East,Busch Light,187,12.0,2244.0,Value
+1086,2026-08-29,East,Stella Artois,183,16.0,2928.0,Premium
+1087,2026-08-29,East,Natural Light,179,11.0,1969.0,Value
+1088,2026-08-29,East,Busch,149,11.5,1713.5,Value
+1089,2026-08-29,East,Nutrl,126,18.0,2268.0,Seltzer
+1090,2026-08-29,East,Kona Big Wave,59,15.5,914.5,Craft
+1091,2026-08-29,East,Bud Light Seltzer,54,17.0,918.0,Seltzer
+1092,2026-08-29,East,Mango Cart,52,13.0,676.0,Craft
+1093,2026-08-29,West,Michelob Ultra,217,14.0,3038.0,Core Beer
+1094,2026-08-29,West,Bud Light,201,12.5,2512.5,Core Beer
+1095,2026-08-29,West,Corona Extra,192,14.0,2688.0,Premium
+1096,2026-08-29,West,Budweiser,179,12.0,2148.0,Core Beer
+1097,2026-08-29,West,Busch Light,150,12.0,1800.0,Value
+1098,2026-08-29,West,Stella Artois,133,16.0,2128.0,Premium
+1099,2026-08-29,West,Natural Light,122,11.0,1342.0,Value
+1100,2026-08-29,West,Busch,114,11.5,1311.0,Value
+1101,2026-08-29,West,Nutrl,112,18.0,2016.0,Seltzer
+1102,2026-08-29,West,Kona Big Wave,66,15.5,1023.0,Craft
+1103,2026-08-29,West,Bud Light Seltzer,62,17.0,1054.0,Seltzer
+1104,2026-08-29,West,Mango Cart,58,13.0,754.0,Craft
+1105,2026-08-30,North,Michelob Ultra,237,14.0,3318.0,Core Beer
+1106,2026-08-30,North,Bud Light,227,12.5,2837.5,Core Beer
+1107,2026-08-30,North,Corona Extra,212,14.0,2968.0,Premium
+1108,2026-08-30,North,Budweiser,169,12.0,2028.0,Core Beer
+1109,2026-08-30,North,Busch Light,166,12.0,1992.0,Value
+1110,2026-08-30,North,Stella Artois,144,16.0,2304.0,Premium
+1111,2026-08-30,North,Natural Light,143,11.0,1573.0,Value
+1112,2026-08-30,North,Busch,127,11.5,1460.5,Value
+1113,2026-08-30,North,Nutrl,118,18.0,2124.0,Seltzer
+1114,2026-08-30,North,Kona Big Wave,111,15.5,1720.5,Craft
+1115,2026-08-30,North,Bud Light Seltzer,98,17.0,1666.0,Seltzer
+1116,2026-08-30,North,Mango Cart,87,13.0,1131.0,Craft
+1117,2026-08-30,South,Michelob Ultra,211,14.0,2954.0,Core Beer
+1118,2026-08-30,South,Bud Light,199,12.5,2487.5,Core Beer
+1119,2026-08-30,South,Corona Extra,186,14.0,2604.0,Premium
+1120,2026-08-30,South,Budweiser,142,12.0,1704.0,Core Beer
+1121,2026-08-30,South,Busch Light,125,12.0,1500.0,Value
+1122,2026-08-30,South,Stella Artois,121,16.0,1936.0,Premium
+1123,2026-08-30,South,Natural Light,113,11.0,1243.0,Value
+1124,2026-08-30,South,Busch,113,11.5,1299.5,Value
+1125,2026-08-30,South,Nutrl,109,18.0,1962.0,Seltzer
+1126,2026-08-30,South,Kona Big Wave,89,15.5,1379.5,Craft
+1127,2026-08-30,South,Bud Light Seltzer,84,17.0,1428.0,Seltzer
+1128,2026-08-30,South,Mango Cart,50,13.0,650.0,Craft
+1129,2026-08-30,East,Michelob Ultra,214,14.0,2996.0,Core Beer
+1130,2026-08-30,East,Bud Light,203,12.5,2537.5,Core Beer
+1131,2026-08-30,East,Corona Extra,172,14.0,2408.0,Premium
+1132,2026-08-30,East,Budweiser,154,12.0,1848.0,Core Beer
+1133,2026-08-30,East,Busch Light,132,12.0,1584.0,Value
+1134,2026-08-30,East,Stella Artois,127,16.0,2032.0,Premium
+1135,2026-08-30,East,Natural Light,109,11.0,1199.0,Value
+1136,2026-08-30,East,Busch,84,11.5,966.0,Value
+1137,2026-08-30,East,Nutrl,79,18.0,1422.0,Seltzer
+1138,2026-08-30,East,Kona Big Wave,63,15.5,976.5,Craft
+1139,2026-08-30,East,Bud Light Seltzer,60,17.0,1020.0,Seltzer
+1140,2026-08-30,East,Mango Cart,54,13.0,702.0,Craft
+1141,2026-08-30,West,Michelob Ultra,195,14.0,2730.0,Core Beer
+1142,2026-08-30,West,Bud Light,181,12.5,2262.5,Core Beer
+1143,2026-08-30,West,Corona Extra,153,14.0,2142.0,Premium
+1144,2026-08-30,West,Budweiser,138,12.0,1656.0,Core Beer
+1145,2026-08-30,West,Busch Light,138,12.0,1656.0,Value
+1146,2026-08-30,West,Stella Artois,121,16.0,1936.0,Premium
+1147,2026-08-30,West,Natural Light,111,11.0,1221.0,Value
+1148,2026-08-30,West,Busch,91,11.5,1046.5,Value
+1149,2026-08-30,West,Nutrl,89,18.0,1602.0,Seltzer
+1150,2026-08-30,West,Kona Big Wave,88,15.5,1364.0,Craft
+1151,2026-08-30,West,Bud Light Seltzer,81,17.0,1377.0,Seltzer
+1152,2026-08-30,West,Mango Cart,63,13.0,819.0,Craft
+1153,2026-08-31,North,Michelob Ultra,243,14.0,3402.0,Core Beer
+1154,2026-08-31,North,Bud Light,228,12.5,2850.0,Core Beer
+1155,2026-08-31,North,Corona Extra,215,14.0,3010.0,Premium
+1156,2026-08-31,North,Budweiser,202,12.0,2424.0,Core Beer
+1157,2026-08-31,North,Busch Light,194,12.0,2328.0,Value
+1158,2026-08-31,North,Stella Artois,192,16.0,3072.0,Premium
+1159,2026-08-31,North,Natural Light,174,11.0,1914.0,Value
+1160,2026-08-31,North,Busch,153,11.5,1759.5,Value
+1161,2026-08-31,North,Nutrl,146,18.0,2628.0,Seltzer
+1162,2026-08-31,North,Kona Big Wave,112,15.5,1736.0,Craft
+1163,2026-08-31,North,Bud Light Seltzer,102,17.0,1734.0,Seltzer
+1164,2026-08-31,North,Mango Cart,72,13.0,936.0,Craft
+1165,2026-08-31,South,Michelob Ultra,249,14.0,3486.0,Core Beer
+1166,2026-08-31,South,Bud Light,247,12.5,3087.5,Core Beer
+1167,2026-08-31,South,Corona Extra,241,14.0,3374.0,Premium
+1168,2026-08-31,South,Budweiser,228,12.0,2736.0,Core Beer
+1169,2026-08-31,South,Busch Light,228,12.0,2736.0,Value
+1170,2026-08-31,South,Stella Artois,228,16.0,3648.0,Premium
+1171,2026-08-31,South,Natural Light,184,11.0,2024.0,Value
+1172,2026-08-31,South,Busch,183,11.5,2104.5,Value
+1173,2026-08-31,South,Nutrl,153,18.0,2754.0,Seltzer
+1174,2026-08-31,South,Kona Big Wave,116,15.5,1798.0,Craft
+1175,2026-08-31,South,Bud Light Seltzer,91,17.0,1547.0,Seltzer
+1176,2026-08-31,South,Mango Cart,88,13.0,1144.0,Craft
+1177,2026-08-31,East,Michelob Ultra,234,14.0,3276.0,Core Beer
+1178,2026-08-31,East,Bud Light,232,12.5,2900.0,Core Beer
+1179,2026-08-31,East,Corona Extra,213,14.0,2982.0,Premium
+1180,2026-08-31,East,Budweiser,206,12.0,2472.0,Core Beer
+1181,2026-08-31,East,Busch Light,206,12.0,2472.0,Value
+1182,2026-08-31,East,Stella Artois,204,16.0,3264.0,Premium
+1183,2026-08-31,East,Natural Light,204,11.0,2244.0,Value
+1184,2026-08-31,East,Busch,160,11.5,1840.0,Value
+1185,2026-08-31,East,Nutrl,146,18.0,2628.0,Seltzer
+1186,2026-08-31,East,Kona Big Wave,87,15.5,1348.5,Craft
+1187,2026-08-31,East,Bud Light Seltzer,82,17.0,1394.0,Seltzer
+1188,2026-08-31,East,Mango Cart,64,13.0,832.0,Craft
+1189,2026-08-31,West,Michelob Ultra,245,14.0,3430.0,Core Beer
+1190,2026-08-31,West,Bud Light,190,12.5,2375.0,Core Beer
+1191,2026-08-31,West,Corona Extra,172,14.0,2408.0,Premium
+1192,2026-08-31,West,Budweiser,167,12.0,2004.0,Core Beer
+1193,2026-08-31,West,Busch Light,146,12.0,1752.0,Value
+1194,2026-08-31,West,Stella Artois,135,16.0,2160.0,Premium
+1195,2026-08-31,West,Natural Light,123,11.0,1353.0,Value
+1196,2026-08-31,West,Busch,115,11.5,1322.5,Value
+1197,2026-08-31,West,Nutrl,87,18.0,1566.0,Seltzer
+1198,2026-08-31,West,Kona Big Wave,82,15.5,1271.0,Craft
+1199,2026-08-31,West,Bud Light Seltzer,59,17.0,1003.0,Seltzer
+1200,2026-08-31,West,Mango Cart,54,13.0,702.0,Craft
+1201,2026-09-01,North,Michelob Ultra,233,14.0,3262.0,Core Beer
+1202,2026-09-01,North,Bud Light,229,12.5,2862.5,Core Beer
+1203,2026-09-01,North,Corona Extra,208,14.0,2912.0,Premium
+1204,2026-09-01,North,Budweiser,206,12.0,2472.0,Core Beer
+1205,2026-09-01,North,Busch Light,206,12.0,2472.0,Value
+1206,2026-09-01,North,Stella Artois,185,16.0,2960.0,Premium
+1207,2026-09-01,North,Natural Light,158,11.0,1738.0,Value
+1208,2026-09-01,North,Busch,117,11.5,1345.5,Value
+1209,2026-09-01,North,Nutrl,96,18.0,1728.0,Seltzer
+1210,2026-09-01,North,Kona Big Wave,96,15.5,1488.0,Craft
+1211,2026-09-01,North,Bud Light Seltzer,64,17.0,1088.0,Seltzer
+1212,2026-09-01,North,Mango Cart,54,13.0,702.0,Craft
+1213,2026-09-01,South,Michelob Ultra,222,14.0,3108.0,Core Beer
+1214,2026-09-01,South,Bud Light,213,12.5,2662.5,Core Beer
+1215,2026-09-01,South,Corona Extra,204,14.0,2856.0,Premium
+1216,2026-09-01,South,Budweiser,179,12.0,2148.0,Core Beer
+1217,2026-09-01,South,Busch Light,164,12.0,1968.0,Value
+1218,2026-09-01,South,Stella Artois,144,16.0,2304.0,Premium
+1219,2026-09-01,South,Natural Light,125,11.0,1375.0,Value
+1220,2026-09-01,South,Busch,118,11.5,1357.0,Value
+1221,2026-09-01,South,Nutrl,92,18.0,1656.0,Seltzer
+1222,2026-09-01,South,Kona Big Wave,85,15.5,1317.5,Craft
+1223,2026-09-01,South,Bud Light Seltzer,76,17.0,1292.0,Seltzer
+1224,2026-09-01,South,Mango Cart,75,13.0,975.0,Craft
+1225,2026-09-01,East,Michelob Ultra,249,14.0,3486.0,Core Beer
+1226,2026-09-01,East,Bud Light,197,12.5,2462.5,Core Beer
+1227,2026-09-01,East,Corona Extra,183,14.0,2562.0,Premium
+1228,2026-09-01,East,Budweiser,156,12.0,1872.0,Core Beer
+1229,2026-09-01,East,Busch Light,153,12.0,1836.0,Value
+1230,2026-09-01,East,Stella Artois,139,16.0,2224.0,Premium
+1231,2026-09-01,East,Natural Light,123,11.0,1353.0,Value
+1232,2026-09-01,East,Busch,96,11.5,1104.0,Value
+1233,2026-09-01,East,Nutrl,95,18.0,1710.0,Seltzer
+1234,2026-09-01,East,Kona Big Wave,87,15.5,1348.5,Craft
+1235,2026-09-01,East,Bud Light Seltzer,72,17.0,1224.0,Seltzer
+1236,2026-09-01,East,Mango Cart,60,13.0,780.0,Craft
+1237,2026-09-01,West,Michelob Ultra,239,14.0,3346.0,Core Beer
+1238,2026-09-01,West,Bud Light,220,12.5,2750.0,Core Beer
+1239,2026-09-01,West,Corona Extra,190,14.0,2660.0,Premium
+1240,2026-09-01,West,Budweiser,189,12.0,2268.0,Core Beer
+1241,2026-09-01,West,Busch Light,182,12.0,2184.0,Value
+1242,2026-09-01,West,Stella Artois,169,16.0,2704.0,Premium
+1243,2026-09-01,West,Natural Light,160,11.0,1760.0,Value
+1244,2026-09-01,West,Busch,153,11.5,1759.5,Value
+1245,2026-09-01,West,Nutrl,153,18.0,2754.0,Seltzer
+1246,2026-09-01,West,Kona Big Wave,149,15.5,2309.5,Craft
+1247,2026-09-01,West,Bud Light Seltzer,117,17.0,1989.0,Seltzer
+1248,2026-09-01,West,Mango Cart,109,13.0,1417.0,Craft
+1249,2026-09-02,North,Michelob Ultra,186,14.0,2604.0,Core Beer
+1250,2026-09-02,North,Bud Light,176,12.5,2200.0,Core Beer
+1251,2026-09-02,North,Corona Extra,171,14.0,2394.0,Premium
+1252,2026-09-02,North,Budweiser,155,12.0,1860.0,Core Beer
+1253,2026-09-02,North,Busch Light,141,12.0,1692.0,Value
+1254,2026-09-02,North,Stella Artois,121,16.0,1936.0,Premium
+1255,2026-09-02,North,Natural Light,100,11.0,1100.0,Value
+1256,2026-09-02,North,Busch,90,11.5,1035.0,Value
+1257,2026-09-02,North,Nutrl,89,18.0,1602.0,Seltzer
+1258,2026-09-02,North,Kona Big Wave,86,15.5,1333.0,Craft
+1259,2026-09-02,North,Bud Light Seltzer,80,17.0,1360.0,Seltzer
+1260,2026-09-02,North,Mango Cart,78,13.0,1014.0,Craft
+1261,2026-09-02,South,Michelob Ultra,231,14.0,3234.0,Core Beer
+1262,2026-09-02,South,Bud Light,213,12.5,2662.5,Core Beer
+1263,2026-09-02,South,Corona Extra,200,14.0,2800.0,Premium
+1264,2026-09-02,South,Budweiser,198,12.0,2376.0,Core Beer
+1265,2026-09-02,South,Busch Light,159,12.0,1908.0,Value
+1266,2026-09-02,South,Stella Artois,150,16.0,2400.0,Premium
+1267,2026-09-02,South,Natural Light,139,11.0,1529.0,Value
+1268,2026-09-02,South,Busch,106,11.5,1219.0,Value
+1269,2026-09-02,South,Nutrl,95,18.0,1710.0,Seltzer
+1270,2026-09-02,South,Kona Big Wave,60,15.5,930.0,Craft
+1271,2026-09-02,South,Bud Light Seltzer,50,17.0,850.0,Seltzer
+1272,2026-09-02,South,Mango Cart,50,13.0,650.0,Craft
+1273,2026-09-02,East,Michelob Ultra,250,14.0,3500.0,Core Beer
+1274,2026-09-02,East,Bud Light,231,12.5,2887.5,Core Beer
+1275,2026-09-02,East,Corona Extra,229,14.0,3206.0,Premium
+1276,2026-09-02,East,Budweiser,224,12.0,2688.0,Core Beer
+1277,2026-09-02,East,Busch Light,217,12.0,2604.0,Value
+1278,2026-09-02,East,Stella Artois,198,16.0,3168.0,Premium
+1279,2026-09-02,East,Natural Light,192,11.0,2112.0,Value
+1280,2026-09-02,East,Busch,186,11.5,2139.0,Value
+1281,2026-09-02,East,Nutrl,164,18.0,2952.0,Seltzer
+1282,2026-09-02,East,Kona Big Wave,112,15.5,1736.0,Craft
+1283,2026-09-02,East,Bud Light Seltzer,104,17.0,1768.0,Seltzer
+1284,2026-09-02,East,Mango Cart,102,13.0,1326.0,Craft
+1285,2026-09-02,West,Michelob Ultra,218,14.0,3052.0,Core Beer
+1286,2026-09-02,West,Bud Light,203,12.5,2537.5,Core Beer
+1287,2026-09-02,West,Corona Extra,184,14.0,2576.0,Premium
+1288,2026-09-02,West,Budweiser,179,12.0,2148.0,Core Beer
+1289,2026-09-02,West,Busch Light,166,12.0,1992.0,Value
+1290,2026-09-02,West,Stella Artois,139,16.0,2224.0,Premium
+1291,2026-09-02,West,Natural Light,124,11.0,1364.0,Value
+1292,2026-09-02,West,Busch,112,11.5,1288.0,Value
+1293,2026-09-02,West,Nutrl,106,18.0,1908.0,Seltzer
+1294,2026-09-02,West,Kona Big Wave,87,15.5,1348.5,Craft
+1295,2026-09-02,West,Bud Light Seltzer,84,17.0,1428.0,Seltzer
+1296,2026-09-02,West,Mango Cart,74,13.0,962.0,Craft
+1297,2026-09-03,North,Michelob Ultra,248,14.0,3472.0,Core Beer
+1298,2026-09-03,North,Bud Light,236,12.5,2950.0,Core Beer
+1299,2026-09-03,North,Corona Extra,231,14.0,3234.0,Premium
+1300,2026-09-03,North,Budweiser,228,12.0,2736.0,Core Beer
+1301,2026-09-03,North,Busch Light,220,12.0,2640.0,Value
+1302,2026-09-03,North,Stella Artois,211,16.0,3376.0,Premium
+1303,2026-09-03,North,Natural Light,201,11.0,2211.0,Value
+1304,2026-09-03,North,Busch,177,11.5,2035.5,Value
+1305,2026-09-03,North,Nutrl,157,18.0,2826.0,Seltzer
+1306,2026-09-03,North,Kona Big Wave,140,15.5,2170.0,Craft
+1307,2026-09-03,North,Bud Light Seltzer,74,17.0,1258.0,Seltzer
+1308,2026-09-03,North,Mango Cart,66,13.0,858.0,Craft
+1309,2026-09-03,South,Michelob Ultra,247,14.0,3458.0,Core Beer
+1310,2026-09-03,South,Bud Light,229,12.5,2862.5,Core Beer
+1311,2026-09-03,South,Corona Extra,226,14.0,3164.0,Premium
+1312,2026-09-03,South,Budweiser,210,12.0,2520.0,Core Beer
+1313,2026-09-03,South,Busch Light,205,12.0,2460.0,Value
+1314,2026-09-03,South,Stella Artois,203,16.0,3248.0,Premium
+1315,2026-09-03,South,Natural Light,199,11.0,2189.0,Value
+1316,2026-09-03,South,Busch,163,11.5,1874.5,Value
+1317,2026-09-03,South,Nutrl,137,18.0,2466.0,Seltzer
+1318,2026-09-03,South,Kona Big Wave,112,15.5,1736.0,Craft
+1319,2026-09-03,South,Bud Light Seltzer,98,17.0,1666.0,Seltzer
+1320,2026-09-03,South,Mango Cart,78,13.0,1014.0,Craft
+1321,2026-09-03,East,Michelob Ultra,248,14.0,3472.0,Core Beer
+1322,2026-09-03,East,Bud Light,238,12.5,2975.0,Core Beer
+1323,2026-09-03,East,Corona Extra,226,14.0,3164.0,Premium
+1324,2026-09-03,East,Budweiser,197,12.0,2364.0,Core Beer
+1325,2026-09-03,East,Busch Light,167,12.0,2004.0,Value
+1326,2026-09-03,East,Stella Artois,154,16.0,2464.0,Premium
+1327,2026-09-03,East,Natural Light,153,11.0,1683.0,Value
+1328,2026-09-03,East,Busch,135,11.5,1552.5,Value
+1329,2026-09-03,East,Nutrl,133,18.0,2394.0,Seltzer
+1330,2026-09-03,East,Kona Big Wave,130,15.5,2015.0,Craft
+1331,2026-09-03,East,Bud Light Seltzer,112,17.0,1904.0,Seltzer
+1332,2026-09-03,East,Mango Cart,98,13.0,1274.0,Craft
+1333,2026-09-03,West,Michelob Ultra,233,14.0,3262.0,Core Beer
+1334,2026-09-03,West,Bud Light,228,12.5,2850.0,Core Beer
+1335,2026-09-03,West,Corona Extra,222,14.0,3108.0,Premium
+1336,2026-09-03,West,Budweiser,207,12.0,2484.0,Core Beer
+1337,2026-09-03,West,Busch Light,190,12.0,2280.0,Value
+1338,2026-09-03,West,Stella Artois,172,16.0,2752.0,Premium
+1339,2026-09-03,West,Natural Light,120,11.0,1320.0,Value
+1340,2026-09-03,West,Busch,111,11.5,1276.5,Value
+1341,2026-09-03,West,Nutrl,98,18.0,1764.0,Seltzer
+1342,2026-09-03,West,Kona Big Wave,81,15.5,1255.5,Craft
+1343,2026-09-03,West,Bud Light Seltzer,78,17.0,1326.0,Seltzer
+1344,2026-09-03,West,Mango Cart,50,13.0,650.0,Craft
+1345,2026-09-04,North,Michelob Ultra,243,14.0,3402.0,Core Beer
+1346,2026-09-04,North,Bud Light,224,12.5,2800.0,Core Beer
+1347,2026-09-04,North,Corona Extra,217,14.0,3038.0,Premium
+1348,2026-09-04,North,Budweiser,193,12.0,2316.0,Core Beer
+1349,2026-09-04,North,Busch Light,164,12.0,1968.0,Value
+1350,2026-09-04,North,Stella Artois,163,16.0,2608.0,Premium
+1351,2026-09-04,North,Natural Light,162,11.0,1782.0,Value
+1352,2026-09-04,North,Busch,127,11.5,1460.5,Value
+1353,2026-09-04,North,Nutrl,79,18.0,1422.0,Seltzer
+1354,2026-09-04,North,Kona Big Wave,68,15.5,1054.0,Craft
+1355,2026-09-04,North,Bud Light Seltzer,67,17.0,1139.0,Seltzer
+1356,2026-09-04,North,Mango Cart,50,13.0,650.0,Craft
+1357,2026-09-04,South,Michelob Ultra,228,14.0,3192.0,Core Beer
+1358,2026-09-04,South,Bud Light,215,12.5,2687.5,Core Beer
+1359,2026-09-04,South,Corona Extra,206,14.0,2884.0,Premium
+1360,2026-09-04,South,Budweiser,181,12.0,2172.0,Core Beer
+1361,2026-09-04,South,Busch Light,180,12.0,2160.0,Value
+1362,2026-09-04,South,Stella Artois,178,16.0,2848.0,Premium
+1363,2026-09-04,South,Natural Light,152,11.0,1672.0,Value
+1364,2026-09-04,South,Busch,112,11.5,1288.0,Value
+1365,2026-09-04,South,Nutrl,104,18.0,1872.0,Seltzer
+1366,2026-09-04,South,Kona Big Wave,81,15.5,1255.5,Craft
+1367,2026-09-04,South,Bud Light Seltzer,59,17.0,1003.0,Seltzer
+1368,2026-09-04,South,Mango Cart,57,13.0,741.0,Craft
+1369,2026-09-04,East,Michelob Ultra,227,14.0,3178.0,Core Beer
+1370,2026-09-04,East,Bud Light,211,12.5,2637.5,Core Beer
+1371,2026-09-04,East,Corona Extra,184,14.0,2576.0,Premium
+1372,2026-09-04,East,Budweiser,173,12.0,2076.0,Core Beer
+1373,2026-09-04,East,Busch Light,159,12.0,1908.0,Value
+1374,2026-09-04,East,Stella Artois,142,16.0,2272.0,Premium
+1375,2026-09-04,East,Natural Light,136,11.0,1496.0,Value
+1376,2026-09-04,East,Busch,114,11.5,1311.0,Value
+1377,2026-09-04,East,Nutrl,106,18.0,1908.0,Seltzer
+1378,2026-09-04,East,Kona Big Wave,104,15.5,1612.0,Craft
+1379,2026-09-04,East,Bud Light Seltzer,81,17.0,1377.0,Seltzer
+1380,2026-09-04,East,Mango Cart,57,13.0,741.0,Craft
+1381,2026-09-04,West,Michelob Ultra,236,14.0,3304.0,Core Beer
+1382,2026-09-04,West,Bud Light,211,12.5,2637.5,Core Beer
+1383,2026-09-04,West,Corona Extra,146,14.0,2044.0,Premium
+1384,2026-09-04,West,Budweiser,145,12.0,1740.0,Core Beer
+1385,2026-09-04,West,Busch Light,141,12.0,1692.0,Value
+1386,2026-09-04,West,Stella Artois,121,16.0,1936.0,Premium
+1387,2026-09-04,West,Natural Light,116,11.0,1276.0,Value
+1388,2026-09-04,West,Busch,116,11.5,1334.0,Value
+1389,2026-09-04,West,Nutrl,103,18.0,1854.0,Seltzer
+1390,2026-09-04,West,Kona Big Wave,100,15.5,1550.0,Craft
+1391,2026-09-04,West,Bud Light Seltzer,84,17.0,1428.0,Seltzer
+1392,2026-09-04,West,Mango Cart,57,13.0,741.0,Craft
+1393,2026-09-05,North,Michelob Ultra,245,14.0,3430.0,Core Beer
+1394,2026-09-05,North,Bud Light,231,12.5,2887.5,Core Beer
+1395,2026-09-05,North,Corona Extra,225,14.0,3150.0,Premium
+1396,2026-09-05,North,Budweiser,214,12.0,2568.0,Core Beer
+1397,2026-09-05,North,Busch Light,193,12.0,2316.0,Value
+1398,2026-09-05,North,Stella Artois,191,16.0,3056.0,Premium
+1399,2026-09-05,North,Natural Light,169,11.0,1859.0,Value
+1400,2026-09-05,North,Busch,137,11.5,1575.5,Value
+1401,2026-09-05,North,Nutrl,127,18.0,2286.0,Seltzer
+1402,2026-09-05,North,Kona Big Wave,104,15.5,1612.0,Craft
+1403,2026-09-05,North,Bud Light Seltzer,95,17.0,1615.0,Seltzer
+1404,2026-09-05,North,Mango Cart,81,13.0,1053.0,Craft
+1405,2026-09-05,South,Michelob Ultra,210,14.0,2940.0,Core Beer
+1406,2026-09-05,South,Bud Light,200,12.5,2500.0,Core Beer
+1407,2026-09-05,South,Corona Extra,196,14.0,2744.0,Premium
+1408,2026-09-05,South,Budweiser,196,12.0,2352.0,Core Beer
+1409,2026-09-05,South,Busch Light,174,12.0,2088.0,Value
+1410,2026-09-05,South,Stella Artois,161,16.0,2576.0,Premium
+1411,2026-09-05,South,Natural Light,134,11.0,1474.0,Value
+1412,2026-09-05,South,Busch,123,11.5,1414.5,Value
+1413,2026-09-05,South,Nutrl,85,18.0,1530.0,Seltzer
+1414,2026-09-05,South,Kona Big Wave,78,15.5,1209.0,Craft
+1415,2026-09-05,South,Bud Light Seltzer,56,17.0,952.0,Seltzer
+1416,2026-09-05,South,Mango Cart,56,13.0,728.0,Craft
+1417,2026-09-05,East,Michelob Ultra,246,14.0,3444.0,Core Beer
+1418,2026-09-05,East,Bud Light,244,12.5,3050.0,Core Beer
+1419,2026-09-05,East,Corona Extra,237,14.0,3318.0,Premium
+1420,2026-09-05,East,Budweiser,197,12.0,2364.0,Core Beer
+1421,2026-09-05,East,Busch Light,189,12.0,2268.0,Value
+1422,2026-09-05,East,Stella Artois,179,16.0,2864.0,Premium
+1423,2026-09-05,East,Natural Light,178,11.0,1958.0,Value
+1424,2026-09-05,East,Busch,168,11.5,1932.0,Value
+1425,2026-09-05,East,Nutrl,131,18.0,2358.0,Seltzer
+1426,2026-09-05,East,Kona Big Wave,96,15.5,1488.0,Craft
+1427,2026-09-05,East,Bud Light Seltzer,60,17.0,1020.0,Seltzer
+1428,2026-09-05,East,Mango Cart,51,13.0,663.0,Craft
+1429,2026-09-05,West,Michelob Ultra,221,14.0,3094.0,Core Beer
+1430,2026-09-05,West,Bud Light,215,12.5,2687.5,Core Beer
+1431,2026-09-05,West,Corona Extra,186,14.0,2604.0,Premium
+1432,2026-09-05,West,Budweiser,157,12.0,1884.0,Core Beer
+1433,2026-09-05,West,Busch Light,148,12.0,1776.0,Value
+1434,2026-09-05,West,Stella Artois,135,16.0,2160.0,Premium
+1435,2026-09-05,West,Natural Light,130,11.0,1430.0,Value
+1436,2026-09-05,West,Busch,102,11.5,1173.0,Value
+1437,2026-09-05,West,Nutrl,86,18.0,1548.0,Seltzer
+1438,2026-09-05,West,Kona Big Wave,73,15.5,1131.5,Craft
+1439,2026-09-05,West,Bud Light Seltzer,69,17.0,1173.0,Seltzer
+1440,2026-09-05,West,Mango Cart,54,13.0,702.0,Craft
+1441,2026-09-06,North,Michelob Ultra,243,14.0,3402.0,Core Beer
+1442,2026-09-06,North,Bud Light,207,12.5,2587.5,Core Beer
+1443,2026-09-06,North,Corona Extra,177,14.0,2478.0,Premium
+1444,2026-09-06,North,Budweiser,169,12.0,2028.0,Core Beer
+1445,2026-09-06,North,Busch Light,164,12.0,1968.0,Value
+1446,2026-09-06,North,Stella Artois,163,16.0,2608.0,Premium
+1447,2026-09-06,North,Natural Light,152,11.0,1672.0,Value
+1448,2026-09-06,North,Busch,108,11.5,1242.0,Value
+1449,2026-09-06,North,Nutrl,89,18.0,1602.0,Seltzer
+1450,2026-09-06,North,Kona Big Wave,74,15.5,1147.0,Craft
+1451,2026-09-06,North,Bud Light Seltzer,63,17.0,1071.0,Seltzer
+1452,2026-09-06,North,Mango Cart,58,13.0,754.0,Craft
+1453,2026-09-06,South,Michelob Ultra,250,14.0,3500.0,Core Beer
+1454,2026-09-06,South,Bud Light,235,12.5,2937.5,Core Beer
+1455,2026-09-06,South,Corona Extra,203,14.0,2842.0,Premium
+1456,2026-09-06,South,Budweiser,195,12.0,2340.0,Core Beer
+1457,2026-09-06,South,Busch Light,158,12.0,1896.0,Value
+1458,2026-09-06,South,Stella Artois,147,16.0,2352.0,Premium
+1459,2026-09-06,South,Natural Light,124,11.0,1364.0,Value
+1460,2026-09-06,South,Busch,119,11.5,1368.5,Value
+1461,2026-09-06,South,Nutrl,86,18.0,1548.0,Seltzer
+1462,2026-09-06,South,Kona Big Wave,78,15.5,1209.0,Craft
+1463,2026-09-06,South,Bud Light Seltzer,71,17.0,1207.0,Seltzer
+1464,2026-09-06,South,Mango Cart,53,13.0,689.0,Craft
+1465,2026-09-06,East,Michelob Ultra,215,14.0,3010.0,Core Beer
+1466,2026-09-06,East,Bud Light,214,12.5,2675.0,Core Beer
+1467,2026-09-06,East,Corona Extra,202,14.0,2828.0,Premium
+1468,2026-09-06,East,Budweiser,177,12.0,2124.0,Core Beer
+1469,2026-09-06,East,Busch Light,171,12.0,2052.0,Value
+1470,2026-09-06,East,Stella Artois,149,16.0,2384.0,Premium
+1471,2026-09-06,East,Natural Light,134,11.0,1474.0,Value
+1472,2026-09-06,East,Busch,125,11.5,1437.5,Value
+1473,2026-09-06,East,Nutrl,91,18.0,1638.0,Seltzer
+1474,2026-09-06,East,Kona Big Wave,90,15.5,1395.0,Craft
+1475,2026-09-06,East,Bud Light Seltzer,83,17.0,1411.0,Seltzer
+1476,2026-09-06,East,Mango Cart,66,13.0,858.0,Craft
+1477,2026-09-06,West,Michelob Ultra,217,14.0,3038.0,Core Beer
+1478,2026-09-06,West,Bud Light,183,12.5,2287.5,Core Beer
+1479,2026-09-06,West,Corona Extra,166,14.0,2324.0,Premium
+1480,2026-09-06,West,Budweiser,155,12.0,1860.0,Core Beer
+1481,2026-09-06,West,Busch Light,147,12.0,1764.0,Value
+1482,2026-09-06,West,Stella Artois,136,16.0,2176.0,Premium
+1483,2026-09-06,West,Natural Light,135,11.0,1485.0,Value
+1484,2026-09-06,West,Busch,106,11.5,1219.0,Value
+1485,2026-09-06,West,Nutrl,102,18.0,1836.0,Seltzer
+1486,2026-09-06,West,Kona Big Wave,80,15.5,1240.0,Craft
+1487,2026-09-06,West,Bud Light Seltzer,76,17.0,1292.0,Seltzer
+1488,2026-09-06,West,Mango Cart,61,13.0,793.0,Craft
+1489,2026-09-07,North,Michelob Ultra,248,14.0,3472.0,Core Beer
+1490,2026-09-07,North,Bud Light,239,12.5,2987.5,Core Beer
+1491,2026-09-07,North,Corona Extra,222,14.0,3108.0,Premium
+1492,2026-09-07,North,Budweiser,203,12.0,2436.0,Core Beer
+1493,2026-09-07,North,Busch Light,194,12.0,2328.0,Value
+1494,2026-09-07,North,Stella Artois,187,16.0,2992.0,Premium
+1495,2026-09-07,North,Natural Light,179,11.0,1969.0,Value
+1496,2026-09-07,North,Busch,171,11.5,1966.5,Value
+1497,2026-09-07,North,Nutrl,156,18.0,2808.0,Seltzer
+1498,2026-09-07,North,Kona Big Wave,113,15.5,1751.5,Craft
+1499,2026-09-07,North,Bud Light Seltzer,103,17.0,1751.0,Seltzer
+1500,2026-09-07,North,Mango Cart,95,13.0,1235.0,Craft
+1501,2026-09-07,South,Michelob Ultra,242,14.0,3388.0,Core Beer
+1502,2026-09-07,South,Bud Light,230,12.5,2875.0,Core Beer
+1503,2026-09-07,South,Corona Extra,213,14.0,2982.0,Premium
+1504,2026-09-07,South,Budweiser,198,12.0,2376.0,Core Beer
+1505,2026-09-07,South,Busch Light,164,12.0,1968.0,Value
+1506,2026-09-07,South,Stella Artois,100,16.0,1600.0,Premium
+1507,2026-09-07,South,Natural Light,89,11.0,979.0,Value
+1508,2026-09-07,South,Busch,85,11.5,977.5,Value
+1509,2026-09-07,South,Nutrl,78,18.0,1404.0,Seltzer
+1510,2026-09-07,South,Kona Big Wave,75,15.5,1162.5,Craft
+1511,2026-09-07,South,Bud Light Seltzer,60,17.0,1020.0,Seltzer
+1512,2026-09-07,South,Mango Cart,60,13.0,780.0,Craft
+1513,2026-09-07,East,Michelob Ultra,236,14.0,3304.0,Core Beer
+1514,2026-09-07,East,Bud Light,201,12.5,2512.5,Core Beer
+1515,2026-09-07,East,Corona Extra,199,14.0,2786.0,Premium
+1516,2026-09-07,East,Budweiser,162,12.0,1944.0,Core Beer
+1517,2026-09-07,East,Busch Light,160,12.0,1920.0,Value
+1518,2026-09-07,East,Stella Artois,147,16.0,2352.0,Premium
+1519,2026-09-07,East,Natural Light,118,11.0,1298.0,Value
+1520,2026-09-07,East,Busch,105,11.5,1207.5,Value
+1521,2026-09-07,East,Nutrl,104,18.0,1872.0,Seltzer
+1522,2026-09-07,East,Kona Big Wave,103,15.5,1596.5,Craft
+1523,2026-09-07,East,Bud Light Seltzer,88,17.0,1496.0,Seltzer
+1524,2026-09-07,East,Mango Cart,82,13.0,1066.0,Craft
+1525,2026-09-07,West,Michelob Ultra,250,14.0,3500.0,Core Beer
+1526,2026-09-07,West,Bud Light,250,12.5,3125.0,Core Beer
+1527,2026-09-07,West,Corona Extra,243,14.0,3402.0,Premium
+1528,2026-09-07,West,Budweiser,239,12.0,2868.0,Core Beer
+1529,2026-09-07,West,Busch Light,203,12.0,2436.0,Value
+1530,2026-09-07,West,Stella Artois,197,16.0,3152.0,Premium
+1531,2026-09-07,West,Natural Light,158,11.0,1738.0,Value
+1532,2026-09-07,West,Busch,130,11.5,1495.0,Value
+1533,2026-09-07,West,Nutrl,122,18.0,2196.0,Seltzer
+1534,2026-09-07,West,Kona Big Wave,89,15.5,1379.5,Craft
+1535,2026-09-07,West,Bud Light Seltzer,85,17.0,1445.0,Seltzer
+1536,2026-09-07,West,Mango Cart,66,13.0,858.0,Craft
